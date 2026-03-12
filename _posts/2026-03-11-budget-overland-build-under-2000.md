@@ -6,7 +6,13 @@ categories: [overlanding, budget, build]
 description: "You can build a genuinely capable overland rig for under $2,000 in parts. Here is a real parts list that covers the essentials."
 ---
 
+
 This is a parts-focused guide for someone who already has a capable vehicle (a used 4Runner, Tacoma, Wrangler, or similar 4x4) and wants to build it into a real overlanding platform without spending like a content creator. The goal is under $2,000 total in modifications and gear.
+
+<div class="safety-note">
+**Safety Note:** When adding suspension modifications or significant weight to a vehicle, have the alignment checked professionally afterward. DIY electrical work should be properly fused and rated for the load - undersized wiring is a fire hazard. Any vehicle modification affecting steering or braking should be inspected by a qualified mechanic.
+</div>
+
 
 ## Assumptions
 
@@ -22,7 +28,7 @@ Upgrading to a quality A/T tire is the single best dollar you can spend. Four Fa
 
 This alone transforms how your vehicle performs on dirt. Do not skip this.
 
-### Recovery Gear: $200
+### [Recovery Gear](/2026/03/11/overland-recovery-gear.html): $200
 
 Kinetic recovery strap (rated to 2x vehicle weight): $80
 D-ring shackles (pair, rated): $25
@@ -84,6 +90,9 @@ Total: $125
 
 That leaves $185 in reserve for fuel, fees, and anything missed.
 
+
+The Bureau of Land Management's [dispersed camping resource](https://www.blm.gov/programs/recreation/camping) covers where you can legally camp and what vehicle requirements apply.
+
 ## What This Build Gets You
 
 A vehicle with proper tires, self-recovery capability, satellite communication, comfortable sleeping, real food capability, and basic repair gear. This is a genuinely functional overlanding setup. It is not glamorous, but it is capable.
@@ -91,6 +100,14 @@ A vehicle with proper tires, self-recovery capability, satellite communication, 
 Every item on this list was chosen because it works. Nothing was chosen to look good in a build thread. Build for function, upgrade for comfort as you learn what your trips actually need.
 
 ---
+---
+
+## Related Reading
+
+- [Overlanding With a Stock Vehicle](/2026/03/11/overlanding-with-stock-vehicle.html)
+- [Overland Recovery Gear](/2026/03/11/overland-recovery-gear.html)
+
+Stock vehicle? You don't need modifications to start overlanding. See our [Overlanding With a Stock Vehicle guide](/2026/03/11/overlanding-with-stock-vehicle.html).
 
 ## Recommended Products
 
@@ -101,3 +118,8 @@ Here are a few products to help with what we covered in this guide:
 - **[Portable Jump Starter Compact](https://www.amazon.com/s?k=portable+jump+starter+compact)**
 
 *As an Amazon Associate we earn from qualifying purchases at no extra cost to you.*
+
+<div class="author-bio">
+<p><strong>About the Author</strong></p>
+<p>The Budget Overlander team covers trail-ready vehicle builds that don't require a second mortgage. Our guides come from real builds, real trails, and real budgets - not catalog wishlists.</p>
+</div>
