@@ -47,3 +47,13 @@ Factory suspension and tires were designed for mixed use including pavement. Lon
 **Choose routes thoughtfully.** Difficulty ratings matter. Stay on routes rated for your capability until you build experience.
 
 Your stock vehicle is not holding you back from overlanding. Route selection and preparation matter far more than modifications. Go out and drive.
+
+---
+
+## Recommended Products
+
+Here are a few products that can help with what we covered in this guide:
+
+- **[Off Road Recovery Boards](https://www.amazon.com/s?k=off+road+recovery+boards)**
+
+*As an Amazon Associate we earn from qualifying purchases at no extra cost to you.*
