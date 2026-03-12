@@ -6,7 +6,13 @@ categories: [overlanding, budget]
 description: "Protect your undercarriage without breaking the bank. Here are the best DIY skid plate options for budget overlanders, from steel plate to UHMW plastic."
 ---
 
+
 Your transfer case, oil pan, and fuel tank are inches from rocks, roots, and ledges every time you go off-road. A single bad hit can end a trip fast. Factory skid plates, if your vehicle even has them, are often thin stamped steel that bends more than it protects. Aftermarket bolt-on options from brands like ARB or Rough Country look great, but they can run $300 to $800 per panel installed.
+
+<div class="safety-note">
+**Safety Note:** When welding or cutting metal skid plate material, always wear appropriate PPE: welding helmet, gloves, and a respirator. Secure the vehicle on level ground with wheel chocks before working underneath it - never rely solely on a floor jack. Have a second person present when cutting or welding under a vehicle.
+</div>
+
 
 If you are building a budget overlanding rig, DIY skid plates are one of the smartest places to spend time instead of money. With a welder, a [4.5" angle grinder like the DEWALT DWE402](https://www.amazon.com/dp/B00004RHNQ/?tag=budgetoverlander-20), and a trip to the steel yard, you can build protection that rivals commercial options for a fraction of the cost. Here is what you need to know.
 
@@ -14,7 +20,7 @@ If you are building a budget overlanding rig, DIY skid plates are one of the sma
 
 The underside of most trucks and SUVs is not designed for rocks. The oil pan on a 4.0L Toyota sits pretty low. Transfer cases on solid axle Jeeps dangle in harm's way. Even a modest trail obstacle can crack a pan, puncture a fuel tank, or knock a sensor off a transmission. Skid plates redirect impacts across a flat surface instead of letting them focus on a single vulnerable point.
 
-For budget builds, this protection matters even more. You are likely running a higher-mileage vehicle where replacing a bent oil pan is more painful than it would be on a new rig. Good skids also add confidence, which means you can push into terrain you would otherwise avoid.
+For [budget build](/2026/03/11/budget-overland-build-under-2000.html)s, this protection matters even more. You are likely running a higher-mileage vehicle where replacing a bent oil pan is more painful than it would be on a new rig. Good skids also add confidence, which means you can push into terrain you would otherwise avoid.
 
 ## Material Options for DIY Builds
 
@@ -68,8 +74,24 @@ Compare that to a bolt-on aftermarket skid set for the same vehicle, which often
 
 Several online communities share free skid plate templates for popular overlanding platforms. The Pirate4x4 forums have a long archive of DIY fabrication threads. IH8MUD covers Toyota platforms extensively. Jeep-specific builds are well documented on JeepForum and ExpeditionPortal. Searching your specific vehicle year and model alongside "DIY skid plate plans" will usually surface cut lists and measurements from people who have already done the work.
 
+
+The [Lincoln Electric welding guide](https://www.lincolnelectric.com/en/education-center) covers the basics of MIG welding that apply directly to fabricating skid plate mounts - worthwhile reading before your first weld.
+
 ## Final Advice
 
 Do not let perfect be the enemy of good here. A rough but solid 3/16" steel oil pan skid built in your driveway protects your engine just as well as a polished CNC-cut piece. Start simple, learn as you go, and add protection over time. The key is getting something on the rig before your next trip rather than waiting until you can afford a premium solution.
 
 Your engine will thank you.
+---
+
+## Related Reading
+
+- [Budget Overland Build Under $2,000](/2026/03/11/budget-overland-build-under-2000.html)
+- [Overlanding on a Budget](/2026/03/11/overlanding-on-a-budget.html)
+
+Skid plates work best when the rest of your build is dialed in. See our full [Budget Overland Build Under $2,000 guide](/2026/03/11/budget-overland-build-under-2000.html).
+
+<div class="author-bio">
+<p><strong>About the Author</strong></p>
+<p>The Budget Overlander team covers trail-ready vehicle builds that don't require a second mortgage. Our guides come from real builds, real trails, and real budgets - not catalog wishlists.</p>
+</div>
