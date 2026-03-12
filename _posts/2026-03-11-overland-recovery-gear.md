@@ -43,3 +43,15 @@ A Hi-Lift jack lifts your vehicle out of ruts, acts as a winch in a pinch, and c
 Always attach recovery gear to proper recovery points, not tow hooks or trailer hitches (unless rated). Keep bystanders well clear during a pull. Never stand in line with a strap under tension. A broken strap or shackle can become a projectile.
 
 Build your kit gradually. Traction boards and a kinetic strap cover 80 percent of stuck situations. Add from there as your routes get more remote.
+
+---
+
+## Recommended Products
+
+Here are a few products to help with what we covered in this guide:
+
+- **[Off Road Recovery Boards](https://www.amazon.com/s?k=off+road+recovery+boards)**
+- **[Kinetic Recovery Rope](https://www.amazon.com/s?k=kinetic+recovery+rope+snatch)**
+- **[Hi-Lift Farm Jack](https://www.amazon.com/s?k=hi+lift+farm+jack+off+road)**
+
+*As an Amazon Associate we earn from qualifying purchases at no extra cost to you.*
