@@ -6,7 +6,13 @@ categories: [overlanding, beginner]
 description: "Your unmodified 4x4 or AWD vehicle can handle far more than you think. Here is what stock vehicles can and cannot do for overlanding."
 ---
 
+
 One of the most persistent myths in the overlanding community is that you need a heavily modified vehicle to participate. You do not. Millions of miles of public land roads, forest service tracks, and graded dirt routes are accessible to stock or minimally modified vehicles. Here is a realistic assessment of what you can do without touching your factory setup.
+
+<div class="safety-note">
+**Safety Note:** Stock vehicles have lower ground clearance and less aggressive tires than modified rigs - know your vehicle's limits and stay on trails rated for stock clearance. Attempting technical terrain in a stock vehicle without experience is a common cause of damage and recovery calls.
+</div>
+
 
 ## What "Stock" Can Handle
 
@@ -36,6 +42,9 @@ Stock vehicles have limited water fording depth, typically 18 to 24 inches befor
 
 Factory suspension and tires were designed for mixed use including pavement. Long, rough washboard roads cause faster wear on stock components. Plan for more frequent tire rotations and fluid checks if you cover significant dirt mileage.
 
+
+Tread Lightly! offers a free [responsible recreation pledge and trail ethics guide](https://www.treadlightly.org/) that applies directly to overland travel on public lands.
+
 ## Practical Tips for Stock Overlanding
 
 **Air down your tires.** Dropping tire pressure to 18 to 22 psi on dirt dramatically improves traction and ride quality. Re-inflate before returning to pavement with a portable compressor.
@@ -49,6 +58,14 @@ Factory suspension and tires were designed for mixed use including pavement. Lon
 Your stock vehicle is not holding you back from overlanding. Route selection and preparation matter far more than modifications. Go out and drive.
 
 ---
+---
+
+## Related Reading
+
+- [Overland Recovery Gear](/2026/03/11/overland-recovery-gear.html)
+- [Overlanding for Beginners](/2026/03/11/overlanding-for-beginners.html)
+
+When you're ready to start adding gear, begin with the essentials. Our [Overland Recovery Gear guide](/2026/03/11/overland-recovery-gear.html) covers the minimum kit for any trail.
 
 ## Recommended Products
 
@@ -57,3 +74,8 @@ Here are a few products that can help with what we covered in this guide:
 - **[Off Road Recovery Boards](https://www.amazon.com/s?k=off+road+recovery+boards)**
 
 *As an Amazon Associate we earn from qualifying purchases at no extra cost to you.*
+
+<div class="author-bio">
+<p><strong>About the Author</strong></p>
+<p>The Budget Overlander team covers trail-ready vehicle builds that don't require a second mortgage. Our guides come from real builds, real trails, and real budgets - not catalog wishlists.</p>
+</div>
