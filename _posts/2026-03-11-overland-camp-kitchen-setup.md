@@ -57,3 +57,15 @@ Carry more water than you think you need. A gallon per person per day is the min
 For $230 you have a complete kitchen that cooks breakfast, lunch, and dinner on the trail. That is better eating than most campground neighbors who paid triple for branded overland kitchen systems.
 
 Cook what you enjoy at home. Bring the ingredients. Eat well out there.
+
+---
+
+## Recommended Products
+
+Here are a few products to help with what we covered in this guide:
+
+- **[Rooftop Tent Overlanding](https://www.amazon.com/s?k=rooftop+tent+budget+overlanding)**
+- **[Sleeping Bag Camping](https://www.amazon.com/s?k=sleeping+bag+mummy+camping)**
+- **[Camp Stove 2 Burner](https://www.amazon.com/s?k=camp+stove+2+burner+propane)**
+
+*As an Amazon Associate we earn from qualifying purchases at no extra cost to you.*
