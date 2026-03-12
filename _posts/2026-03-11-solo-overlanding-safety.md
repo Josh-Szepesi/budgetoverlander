@@ -6,7 +6,13 @@ categories: [overlanding, safety]
 description: "Solo overlanding is deeply rewarding. It also requires more preparation and discipline than group travel. Here is how to do it right."
 ---
 
+
 Solo overlanding is one of the most freeing experiences available to someone who loves the outdoors. No schedules to negotiate, no one else's preferences to accommodate, just you and the road. But solo travel requires a different level of preparation. When things go wrong alone, the consequences escalate quickly.
+
+<div class="safety-note">
+**Safety Note:** Solo overlanding requires a higher safety standard than group trips. Always file a trip plan with a trusted contact including your route, campsites, and expected return. Carry a satellite communicator capable of two-way messaging. Never self-recover a vehicle alone in a way that puts you at risk of being trapped under or behind a shifting vehicle.
+</div>
+
 
 ## Tell Someone Your Plans
 
@@ -48,6 +54,9 @@ Tell someone where you are going and when to expect you back. Carry a first aid 
 
 Carry enough water for an extended wait if your vehicle breaks down. Three days of water in the desert could save your life.
 
+
+The National Park Service maintains [backcountry travel safety resources](https://www.nps.gov/subjects/wilderness/safety.htm) that apply directly to solo overlanding on remote public lands.
+
 ## Mental Preparation
 
 Solo travel requires honest self-assessment. Turn around when conditions exceed your capability. There is no one to get you out if you push past your limits. The trail will be there when you come back with more experience or better equipment.
@@ -55,6 +64,14 @@ Solo travel requires honest self-assessment. Turn around when conditions exceed 
 The solo overlanding community is welcoming and experienced. Connect with it. Learn from people who have been doing this for years. Go out, be careful, and have a great time.
 
 ---
+---
+
+## Related Reading
+
+- [Overland Recovery Gear](/2026/03/11/overland-recovery-gear.html)
+- [Navigation Tools for Overlanding](/2026/03/11/navigation-tools-for-overlanding.html)
+
+Solo trips need reliable recovery gear more than group trips. See our [Overland Recovery Gear guide](/2026/03/11/overland-recovery-gear.html) for must-have extraction tools.
 
 ## Recommended Products
 
@@ -65,3 +82,8 @@ Here are a few products to help with what we covered in this guide:
 - **[Recovery Strap Tow Rope](https://www.amazon.com/s?k=recovery+strap+tow+rope+4wd)**
 
 *As an Amazon Associate we earn from qualifying purchases at no extra cost to you.*
+
+<div class="author-bio">
+<p><strong>About the Author</strong></p>
+<p>The Budget Overlander team covers trail-ready vehicle builds that don't require a second mortgage. Our guides come from real builds, real trails, and real budgets - not catalog wishlists.</p>
+</div>
