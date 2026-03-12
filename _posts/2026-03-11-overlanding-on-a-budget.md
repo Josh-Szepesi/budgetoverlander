@@ -6,7 +6,13 @@ categories: [overlanding, budget]
 description: "You can build a functional overlanding kit for under $500. Here is exactly how to prioritize your spending."
 ---
 
+
 The most common misconception about overlanding is that you need an expensive build to participate. You do not. Thousands of people explore remote terrain every weekend in stock vehicles with modest gear. This guide builds a complete starter kit for under $500.
+
+<div class="safety-note">
+**Safety Note:** Budget builds should never compromise on safety-critical items: [recovery](/2026/03/11/overland-recovery-gear.html) gear, communication devices, and tires. These are the items that get you home when things go wrong. Cutting corners on aesthetics is fine; cutting corners on safety gear is not.
+</div>
+
 
 ## The Priority Order
 
@@ -54,6 +60,9 @@ A single-burner butane camp stove costs $20. A lightweight pot and utensil set c
 
 That leaves $65 for food, fuel, and campsite fees on your first trip.
 
+
+The BLM's [recreation and travel management site](https://www.blm.gov/programs/recreation) helps you find free and low-cost public lands for overlanding without paying campground fees.
+
 ## What You Are Skipping (and Why It Is Okay)
 
 You are skipping a rooftop tent (buy a ground tent instead), a portable fridge (use a quality cooler), a winch (go with a buddy), and a fancy air compressor (check tire pressure before leaving).
@@ -63,6 +72,14 @@ None of these omissions will stop you from having a great time. They are upgrade
 Start simple. Go often. Upgrade based on experience.
 
 ---
+---
+
+## Related Reading
+
+- [Budget Overland Build Under $2,000](/2026/03/11/budget-overland-build-under-2000.html)
+- [Overlanding for Beginners](/2026/03/11/overlanding-for-beginners.html)
+
+For a specific budget build framework, check out our [Budget Overland Build Under $2,000 guide](/2026/03/11/budget-overland-build-under-2000.html).
 
 ## Recommended Products
 
@@ -73,3 +90,8 @@ Here are a few products to help with what we covered in this guide:
 - **[Portable Jump Starter Compact](https://www.amazon.com/s?k=portable+jump+starter+compact)**
 
 *As an Amazon Associate we earn from qualifying purchases at no extra cost to you.*
+
+<div class="author-bio">
+<p><strong>About the Author</strong></p>
+<p>The Budget Overlander team covers trail-ready vehicle builds that don't require a second mortgage. Our guides come from real builds, real trails, and real budgets - not catalog wishlists.</p>
+</div>
