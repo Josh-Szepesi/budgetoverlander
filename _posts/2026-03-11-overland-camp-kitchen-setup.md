@@ -6,7 +6,13 @@ categories: [overlanding, camp-kitchen]
 description: "A great camp kitchen does not require expensive equipment. Here is how to cook well on the trail without spending a lot."
 ---
 
+
 Eating well in the backcountry is one of the great pleasures of overlanding. You do not have to live on gas station food and energy bars. A simple, well-organized camp kitchen setup lets you cook real meals at camp for surprisingly little money.
+
+<div class="safety-note">
+**Safety Note:** Never use propane stoves inside a vehicle, tent, or any enclosed space - CO buildup can be fatal within minutes. Always cook in a well-ventilated area and keep a fire extinguisher accessible when cooking. Let camp stoves cool completely before packing them away.
+</div>
+
 
 ## The Core Kitchen Setup
 
@@ -40,6 +46,9 @@ For dry goods, use a plastic bin with a locking lid. Keep all food sealed and st
 
 Carry more water than you think you need. A gallon per person per day is the minimum for drinking and cooking. Add another half gallon for washing dishes. A small collapsible wash basin ($10) and biodegradable soap (pack out gray water or use at least 200 feet from water sources) keeps dishes manageable.
 
+
+Leave No Trace's [backcountry cooking guidelines](https://lnt.org/why/7-principles/leave-what-you-find/) cover food storage, fire safety, and waste practices that apply to overlanding as much as backpacking.
+
 ## Sample Budget Camp Kitchen Cost
 
 | Item | Cost |
@@ -59,6 +68,14 @@ For $230 you have a complete kitchen that cooks breakfast, lunch, and dinner on 
 Cook what you enjoy at home. Bring the ingredients. Eat well out there.
 
 ---
+---
+
+## Related Reading
+
+- [Overlanding for Beginners](/2026/03/11/overlanding-for-beginners.html)
+- [Budget Overland Build Under $2,000](/2026/03/11/budget-overland-build-under-2000.html)
+
+A good kitchen needs a good camp setup. Our [Overlanding for Beginners guide](/2026/03/11/overlanding-for-beginners.html) covers campsite selection and setup basics.
 
 ## Recommended Products
 
@@ -69,3 +86,8 @@ Here are a few products to help with what we covered in this guide:
 - **[Camp Stove 2 Burner](https://www.amazon.com/s?k=camp+stove+2+burner+propane)**
 
 *As an Amazon Associate we earn from qualifying purchases at no extra cost to you.*
+
+<div class="author-bio">
+<p><strong>About the Author</strong></p>
+<p>The Budget Overlander team covers trail-ready vehicle builds that don't require a second mortgage. Our guides come from real builds, real trails, and real budgets - not catalog wishlists.</p>
+</div>
