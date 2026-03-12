@@ -1,0 +1,7 @@
+title: BudgetOverlander
+description: Practical overlanding and 4x4 adventure guides for budget-conscious explorers.
+url: "https://budgetoverlander.com"
+baseurl: ""
+theme: minima
+plugins:
+  - jekyll-feed
