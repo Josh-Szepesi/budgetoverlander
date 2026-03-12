@@ -6,13 +6,19 @@ categories: [overlanding, recovery]
 description: "Getting stuck is part of overlanding. Having the right recovery gear means getting unstuck safely. Here is what every budget overlander needs."
 ---
 
+
 Getting stuck is not a failure. It is a predictable part of driving off-pavement. The question is whether you are prepared to get yourself out. Recovery gear does not have to be expensive to be effective. Here is a practical kit built around real-world value.
+
+<div class="safety-note">
+**Safety Note:** Never stand in the 'bight' of a recovery strap or kinetic rope during a vehicle recovery - if it snaps, the energy release is lethal. Always attach a weight (like a recovery blanket) to the middle of a strap to dampen snap-back. Use rated shackles only - never substitute hardware store bolts.
+</div>
+
 
 ## The Core Recovery Kit
 
 ### Traction Boards
 
-Traction boards are the single most useful piece of recovery gear for solo overlanders. They provide grip under spinning tires on sand, mud, snow, and loose gravel. You place them in front of the drive wheels and drive out.
+Traction boards are the single most useful piece of recovery gear for [solo](/2026/03/11/solo-overlanding-safety.html) overlanders. They provide grip under spinning tires on sand, mud, snow, and loose gravel. You place them in front of the drive wheels and drive out.
 
 MAXTRAX are the premium standard and cost around $300 per pair. For the budget-conscious, Tredpro and Bunker Indust boards offer similar designs at $80 to $130 per pair. The budget boards flex more under load but handle most stuck situations fine for lighter vehicles.
 
@@ -38,6 +44,9 @@ A Hi-Lift jack lifts your vehicle out of ruts, acts as a winch in a pinch, and c
 
 **Snatch block:** A pulley that doubles your winch's pulling power. Essential if you add a winch later.
 
+
+The American Recovery Association publishes [recovery technique guidelines](https://www.americanrecoveryassociation.org/) that apply to off-road vehicle recovery as well as professional towing.
+
 ## Safe Recovery Practices
 
 Always attach recovery gear to proper recovery points, not tow hooks or trailer hitches (unless rated). Keep bystanders well clear during a pull. Never stand in line with a strap under tension. A broken strap or shackle can become a projectile.
@@ -45,6 +54,14 @@ Always attach recovery gear to proper recovery points, not tow hooks or trailer 
 Build your kit gradually. Traction boards and a kinetic strap cover 80 percent of stuck situations. Add from there as your routes get more remote.
 
 ---
+---
+
+## Related Reading
+
+- [Solo Overlanding Safety](/2026/03/11/solo-overlanding-safety.html)
+- [Overlanding With a Stock Vehicle](/2026/03/11/overlanding-with-stock-vehicle.html)
+
+Recovery gear only helps if you know how to use it. If you're heading out solo, read our [Solo Overlanding Safety guide](/2026/03/11/solo-overlanding-safety.html) first.
 
 ## Recommended Products
 
@@ -55,3 +72,8 @@ Here are a few products to help with what we covered in this guide:
 - **[Hi-Lift Farm Jack](https://www.amazon.com/s?k=hi+lift+farm+jack+off+road)**
 
 *As an Amazon Associate we earn from qualifying purchases at no extra cost to you.*
+
+<div class="author-bio">
+<p><strong>About the Author</strong></p>
+<p>The Budget Overlander team covers trail-ready vehicle builds that don't require a second mortgage. Our guides come from real builds, real trails, and real budgets - not catalog wishlists.</p>
+</div>
