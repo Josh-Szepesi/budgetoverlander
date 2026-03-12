@@ -6,7 +6,13 @@ categories: [overlanding, beginner]
 description: "New to overlanding? This guide covers everything you need to get started on dirt roads and trails without spending a fortune."
 ---
 
+
 Overlanding is one of the most rewarding ways to explore the outdoors. You load up your vehicle, leave the pavement behind, and drive to places most people never see. But if you search online for overlanding builds, you will quickly find six-figure rigs with custom everything. Do not let that intimidate you. This guide is for everyone who wants to start overlanding on a real budget.
+
+<div class="safety-note">
+**Safety Note:** Before your first backcountry trip, always tell someone your planned route and expected return time. Carry more water than you think you need - a minimum of 1 gallon per person per day. Know how to change a tire before you need to do it in the dark on a dirt road.
+</div>
+
 
 ## What Is Overlanding?
 
@@ -22,7 +28,7 @@ The key is knowing your vehicle's limits and choosing routes that match your cap
 
 You do not need to buy everything at once. Here is a lean starter setup:
 
-**Recovery gear:** A traction board pair and a basic tow strap. These handle the most common stuck situations.
+**[Recovery gear](/2026/03/11/overland-recovery-gear.html):** A traction board pair and a basic tow strap. These handle the most common stuck situations.
 
 **Shelter:** A rooftop tent is nice but a ground tent works just as well. A standard camping tent costs far less.
 
@@ -38,6 +44,9 @@ Start with forest service roads and graded dirt roads. These are low-stress, for
 
 Avoid deeply rutted trails, creek crossings, and steep ledges until you have more experience and better recovery gear.
 
+
+The Overland Journal's [beginner resources section](https://overlandjournal.com/) is one of the most thorough introductions to the hobby from an editorial perspective.
+
 ## Join a Community
 
 Nothing accelerates learning faster than going out with experienced overlanders. Find a local group through the Overland Society, regional Facebook groups, or overlanding subreddits. Most groups welcome beginners and will show you the ropes.
@@ -45,6 +54,14 @@ Nothing accelerates learning faster than going out with experienced overlanders.
 Getting started does not require a perfect rig or a big budget. It requires curiosity, some basic gear, and the willingness to drive somewhere new. Start small, learn your vehicle, and build from there.
 
 ---
+---
+
+## Related Reading
+
+- [Budget Overland Build Under $2,000](/2026/03/11/budget-overland-build-under-2000.html)
+- [Overland Recovery Gear](/2026/03/11/overland-recovery-gear.html)
+
+Ready to build your rig? Our [Budget Overland Build Under $2,000 guide](/2026/03/11/budget-overland-build-under-2000.html) gives you a prioritized spending framework.
 
 ## Recommended Products
 
@@ -55,3 +72,8 @@ Here are a few products to help with what we covered in this guide:
 - **[Portable Jump Starter](https://www.amazon.com/s?k=portable+jump+starter)**
 
 *As an Amazon Associate we earn from qualifying purchases at no extra cost to you.*
+
+<div class="author-bio">
+<p><strong>About the Author</strong></p>
+<p>The Budget Overlander team covers trail-ready vehicle builds that don't require a second mortgage. Our guides come from real builds, real trails, and real budgets - not catalog wishlists.</p>
+</div>
