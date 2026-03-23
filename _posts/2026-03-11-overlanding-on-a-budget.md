@@ -4,7 +4,9 @@ title: "Overlanding on a Budget: Build Your Kit for Under $500"
 date: 2026-03-11
 categories: [overlanding, budget]
 description: "You can build a functional overlanding kit for under $500. Here is exactly how to prioritize your spending."
+image: /assets/images/2026-03-11-overlanding-on-a-budget.jpg
 ---
+
 
 *This post contains affiliate links. As an Amazon Associate, I earn from qualifying purchases at no extra cost to you.*
 
@@ -14,6 +16,11 @@ The most common misconception about overlanding is that you need an expensive bu
 **Safety Note:** Budget builds should never compromise on safety-critical items: [recovery](/2026/03/11/overland-recovery-gear.html) gear, communication devices, and tires. These are the items that get you home when things go wrong. Cutting corners on aesthetics is fine; cutting corners on safety gear is not.
 </div>
 
+
+
+![Overlanding on a Budget: Build Your Kit for Under $500](/assets/images/2026-03-11-overlanding-on-a-budget.jpg)
+
+<p class="image-credit">Photo by <a href="https://unsplash.com/@anniespratt?utm_source=artlines_blog&utm_medium=referral">Annie Spratt</a> on <a href="https://unsplash.com/?utm_source=artlines_blog&utm_medium=referral">Unsplash</a></p>
 
 ## The Priority Order
 
