@@ -4,7 +4,9 @@ title: "Overlanding with a Stock Vehicle: What You Can Actually Do"
 date: 2026-03-11
 categories: [overlanding, beginner]
 description: "Your unmodified 4x4 or AWD vehicle can handle far more than you think. Here is what stock vehicles can and cannot do for overlanding."
+image: /assets/images/2026-03-11-overlanding-with-stock-vehicle.jpg
 ---
+
 
 *This post contains affiliate links. As an Amazon Associate, I earn from qualifying purchases at no extra cost to you.*
 
@@ -14,6 +16,11 @@ One of the most persistent myths in the overlanding community is that you need a
 **Safety Note:** Stock vehicles have lower ground clearance and less aggressive tires than modified rigs - know your vehicle's limits and stay on trails rated for stock clearance. Attempting technical terrain in a stock vehicle without experience is a common cause of damage and recovery calls.
 </div>
 
+
+
+![Overlanding with a Stock Vehicle: What You Can Actually Do](/assets/images/2026-03-11-overlanding-with-stock-vehicle.jpg)
+
+<p class="image-credit">Photo by <a href="https://unsplash.com/@joshua_yu?utm_source=artlines_blog&utm_medium=referral">joshua yu</a> on <a href="https://unsplash.com/?utm_source=artlines_blog&utm_medium=referral">Unsplash</a></p>
 
 ## What "Stock" Can Handle
 
