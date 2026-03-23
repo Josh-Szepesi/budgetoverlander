@@ -6,6 +6,7 @@ categories: [overlanding, camp-kitchen]
 description: "A great camp kitchen does not require expensive equipment. Here is how to cook well on the trail without spending a lot."
 ---
 
+*This post contains affiliate links. As an Amazon Associate, I earn from qualifying purchases at no extra cost to you.*
 
 Eating well in the backcountry is one of the great pleasures of overlanding. You do not have to live on gas station food and energy bars. A simple, well-organized camp kitchen setup lets you cook real meals at camp for surprisingly little money.
 
@@ -81,11 +82,10 @@ A good kitchen needs a good camp setup. Our [Overlanding for Beginners guide](/2
 
 Here are a few products to help with what we covered in this guide:
 
-- **[Rooftop Tent Overlanding](https://www.amazon.com/s?k=rooftop+tent+budget+overlanding)**
-- **[Sleeping Bag Camping](https://www.amazon.com/s?k=sleeping+bag+mummy+camping)**
-- **[Camp Stove 2 Burner](https://www.amazon.com/s?k=camp+stove+2+burner+propane)**
+- **[Rooftop Tent Overlanding](https://www.amazon.com/s?k=rooftop+tent+budget+overlanding&tag=mbbeekeeping-20)**
+- **[Sleeping Bag Camping](https://www.amazon.com/s?k=sleeping+bag+mummy+camping&tag=mbbeekeeping-20)**
+- **[Camp Stove 2 Burner](https://www.amazon.com/s?k=camp+stove+2+burner+propane&tag=mbbeekeeping-20)**
 
-*As an Amazon Associate we earn from qualifying purchases at no extra cost to you.*
 
 <div class="author-bio">
 <p><strong>About the Author</strong></p>
