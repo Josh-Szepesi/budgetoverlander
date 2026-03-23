@@ -4,7 +4,9 @@ title: "Essential Overland Recovery Gear: What You Actually Need"
 date: 2026-03-11
 categories: [overlanding, recovery]
 description: "Getting stuck is part of overlanding. Having the right recovery gear means getting unstuck safely. Here is what every budget overlander needs."
+image: /assets/images/2026-03-11-overland-recovery-gear.jpg
 ---
+
 
 *This post contains affiliate links. As an Amazon Associate, I earn from qualifying purchases at no extra cost to you.*
 
@@ -14,6 +16,11 @@ Getting stuck is not a failure. It is a predictable part of driving off-pavement
 **Safety Note:** Never stand in the 'bight' of a recovery strap or kinetic rope during a vehicle recovery - if it snaps, the energy release is lethal. Always attach a weight (like a recovery blanket) to the middle of a strap to dampen snap-back. Use rated shackles only - never substitute hardware store bolts.
 </div>
 
+
+
+![Essential Overland Recovery Gear: What You Actually Need](/assets/images/2026-03-11-overland-recovery-gear.jpg)
+
+<p class="image-credit">Photo by <a href="https://unsplash.com/@silverringvee?utm_source=artlines_blog&utm_medium=referral">Silver Ringvee</a> on <a href="https://unsplash.com/?utm_source=artlines_blog&utm_medium=referral">Unsplash</a></p>
 
 ## The Core Recovery Kit
 
