@@ -6,6 +6,7 @@ categories: [overlanding, recovery]
 description: "Getting stuck is part of overlanding. Having the right recovery gear means getting unstuck safely. Here is what every budget overlander needs."
 ---
 
+*This post contains affiliate links. As an Amazon Associate, I earn from qualifying purchases at no extra cost to you.*
 
 Getting stuck is not a failure. It is a predictable part of driving off-pavement. The question is whether you are prepared to get yourself out. Recovery gear does not have to be expensive to be effective. Here is a practical kit built around real-world value.
 
@@ -67,11 +68,10 @@ Recovery gear only helps if you know how to use it. If you're heading out solo, 
 
 Here are a few products to help with what we covered in this guide:
 
-- **[Off Road Recovery Boards](https://www.amazon.com/s?k=off+road+recovery+boards)**
-- **[Kinetic Recovery Rope](https://www.amazon.com/s?k=kinetic+recovery+rope+snatch)**
-- **[Hi-Lift Farm Jack](https://www.amazon.com/s?k=hi+lift+farm+jack+off+road)**
+- **[Off Road Recovery Boards](https://www.amazon.com/s?k=off+road+recovery+boards&tag=mbbeekeeping-20)**
+- **[Kinetic Recovery Rope](https://www.amazon.com/s?k=kinetic+recovery+rope+snatch&tag=mbbeekeeping-20)**
+- **[Hi-Lift Farm Jack](https://www.amazon.com/s?k=hi+lift+farm+jack+off+road&tag=mbbeekeeping-20)**
 
-*As an Amazon Associate we earn from qualifying purchases at no extra cost to you.*
 
 <div class="author-bio">
 <p><strong>About the Author</strong></p>
