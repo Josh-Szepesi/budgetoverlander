@@ -6,6 +6,7 @@ categories: [overlanding, beginner]
 description: "New to overlanding? This guide covers everything you need to get started on dirt roads and trails without spending a fortune."
 ---
 
+*This post contains affiliate links. As an Amazon Associate, I earn from qualifying purchases at no extra cost to you.*
 
 Overlanding is one of the most rewarding ways to explore the outdoors. You load up your vehicle, leave the pavement behind, and drive to places most people never see. But if you search online for overlanding builds, you will quickly find six-figure rigs with custom everything. Do not let that intimidate you. This guide is for everyone who wants to start overlanding on a real budget.
 
@@ -67,11 +68,10 @@ Ready to build your rig? Our [Budget Overland Build Under $2,000 guide](/2026/03
 
 Here are a few products to help with what we covered in this guide:
 
-- **[Overlanding Starter Kit](https://www.amazon.com/s?k=overlanding+starter+kit)**
-- **[Recovery Kit Off Road](https://www.amazon.com/s?k=off+road+recovery+kit)**
-- **[Portable Jump Starter](https://www.amazon.com/s?k=portable+jump+starter)**
+- **[Overlanding Starter Kit](https://www.amazon.com/s?k=overlanding+starter+kit&tag=mbbeekeeping-20)**
+- **[Recovery Kit Off Road](https://www.amazon.com/s?k=off+road+recovery+kit&tag=mbbeekeeping-20)**
+- **[Portable Jump Starter](https://www.amazon.com/s?k=portable+jump+starter&tag=mbbeekeeping-20)**
 
-*As an Amazon Associate we earn from qualifying purchases at no extra cost to you.*
 
 <div class="author-bio">
 <p><strong>About the Author</strong></p>
