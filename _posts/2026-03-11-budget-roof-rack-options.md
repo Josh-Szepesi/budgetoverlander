@@ -6,6 +6,7 @@ categories: [overlanding, gear]
 description: "You do not need to spend $1,500 on a roof rack. These budget-friendly options carry your gear without draining your wallet."
 ---
 
+*This post contains affiliate links. As an Amazon Associate, I earn from qualifying purchases at no extra cost to you.*
 
 A roof rack opens up your overlanding setup considerably. [Rooftop tent](/2026/03/11/overlanding-for-beginners.html)s, recovery gear, spare tires, and dry bags all need somewhere to live. But factory racks are often weak, and aftermarket options can cost more than some people's entire vehicle. Here are solid budget alternatives that actually hold up.
 
@@ -59,11 +60,10 @@ Once your rack is on, think about what you're carrying. Our [Budget Overland Bui
 
 Here are a few products to help with what we covered in this guide:
 
-- **[Roof Rack Cargo Basket](https://www.amazon.com/s?k=roof+rack+cargo+basket+off+road)**
-- **[Waterproof Storage Box](https://www.amazon.com/s?k=waterproof+storage+box+overlanding)**
-- **[Truck Bed Organizer](https://www.amazon.com/s?k=truck+bed+storage+organizer)**
+- **[Roof Rack Cargo Basket](https://www.amazon.com/s?k=roof+rack+cargo+basket+off+road&tag=mbbeekeeping-20)**
+- **[Waterproof Storage Box](https://www.amazon.com/s?k=waterproof+storage+box+overlanding&tag=mbbeekeeping-20)**
+- **[Truck Bed Organizer](https://www.amazon.com/s?k=truck+bed+storage+organizer&tag=mbbeekeeping-20)**
 
-*As an Amazon Associate we earn from qualifying purchases at no extra cost to you.*
 
 <div class="author-bio">
 <p><strong>About the Author</strong></p>
