@@ -6,6 +6,7 @@ categories: [overlanding, safety]
 description: "Solo overlanding is deeply rewarding. It also requires more preparation and discipline than group travel. Here is how to do it right."
 ---
 
+*This post contains affiliate links. As an Amazon Associate, I earn from qualifying purchases at no extra cost to you.*
 
 Solo overlanding is one of the most freeing experiences available to someone who loves the outdoors. No schedules to negotiate, no one else's preferences to accommodate, just you and the road. But solo travel requires a different level of preparation. When things go wrong alone, the consequences escalate quickly.
 
@@ -77,11 +78,10 @@ Solo trips need reliable recovery gear more than group trips. See our [Overland 
 
 Here are a few products to help with what we covered in this guide:
 
-- **[Satellite Communicator Emergency](https://www.amazon.com/s?k=satellite+communicator+emergency+garmin)**
-- **[First Aid Kit Vehicle](https://www.amazon.com/s?k=first+aid+kit+vehicle+emergency)**
-- **[Recovery Strap Tow Rope](https://www.amazon.com/s?k=recovery+strap+tow+rope+4wd)**
+- **[Satellite Communicator Emergency](https://www.amazon.com/s?k=satellite+communicator+emergency+garmin&tag=mbbeekeeping-20)**
+- **[First Aid Kit Vehicle](https://www.amazon.com/s?k=first+aid+kit+vehicle+emergency&tag=mbbeekeeping-20)**
+- **[Recovery Strap Tow Rope](https://www.amazon.com/s?k=recovery+strap+tow+rope+4wd&tag=mbbeekeeping-20)**
 
-*As an Amazon Associate we earn from qualifying purchases at no extra cost to you.*
 
 <div class="author-bio">
 <p><strong>About the Author</strong></p>
