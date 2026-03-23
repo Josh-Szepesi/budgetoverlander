@@ -4,7 +4,9 @@ title: "DIY Skid Plate Options for Budget Overlanding Builds"
 date: 2026-03-12
 categories: [overlanding, budget]
 description: "Protect your undercarriage without breaking the bank. Here are the best DIY skid plate options for budget overlanders, from steel plate to UHMW plastic."
+image: /assets/images/2026-03-12-diy-skid-plate-options-for-budget-builds.jpg
 ---
+
 
 *This post contains affiliate links. As an Amazon Associate, I earn from qualifying purchases at no extra cost to you.*
 
@@ -16,6 +18,11 @@ Your transfer case, oil pan, and fuel tank are inches from rocks, roots, and led
 
 
 If you are building a budget overlanding rig, DIY skid plates are one of the smartest places to spend time instead of money. With a welder, a [4.5" angle grinder like the DEWALT DWE402](https://www.amazon.com/dp/B00004RHNQ/?tag=mbbeekeeping-20), and a trip to the steel yard, you can build protection that rivals commercial options for a fraction of the cost. Here is what you need to know.
+
+
+![DIY Skid Plate Options for Budget Overlanding Builds](/assets/images/2026-03-12-diy-skid-plate-options-for-budget-builds.jpg)
+
+<p class="image-credit">Photo by <a href="https://unsplash.com/@rstar50?utm_source=artlines_blog&utm_medium=referral">Roger Starnes Sr</a> on <a href="https://unsplash.com/?utm_source=artlines_blog&utm_medium=referral">Unsplash</a></p>
 
 ## Why Skid Plates Matter
 
