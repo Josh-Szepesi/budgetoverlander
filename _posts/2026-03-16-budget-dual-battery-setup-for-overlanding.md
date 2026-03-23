@@ -5,6 +5,8 @@ date: 2026-03-16
 description: "Build a reliable budget dual battery setup for overlanding for under $400. Step-by-step wiring, isolator options, and gear picks for any rig."
 ---
 
+*This post contains affiliate links. As an Amazon Associate, I earn from qualifying purchases at no extra cost to you.*
+
 Running a fridge, camp lights, and a USB hub off one starting battery is a fast track to a dead rig at the worst possible moment. A dual battery setup is one of the upgrades I keep recommending to newer overlanders because the payoff-to-cost ratio is hard to beat - you get true off-grid power without a generator, and a properly wired system protects your starting battery no matter how long you camp. I built my first budget dual battery setup for right around $350 in parts, and it has run reliably through two seasons of weekend trips and a pair of 10-day runs in the desert.
 
 **Safety Note:** This project involves live 12V wiring and connections to your vehicle's main electrical system. Disconnect the negative terminal of your primary battery before running any new cabling. If your vehicle has supplemental restraint system (SRS) backup power near the battery - common on newer trucks and SUVs - consult the factory service manual before working in that area. Route all new wiring away from exhaust components, sharp edges, and moving parts, and protect runs with split loom conduit secured with cable ties. If you are not comfortable tracing the existing wiring in your engine bay or under your dash, a certified 12V installer is a better use of money than a fried alternator harness or a vehicle fire.
@@ -21,7 +23,7 @@ The most important decision in a budget dual battery setup is the house battery 
 
 **Flooded Lead-Acid (FLA):** Cheapest upfront, usually $80-120 for a 100Ah group 27. Heavy, requires ventilation to outside air (hydrogen off-gassing), and needs to be mounted upright. Not my first choice for a cab install, but workable in a bed or under-hood position with a vented battery box.
 
-**AGM (Absorbed Glass Mat):** I use AGM for most budget builds. A 100Ah AGM runs $130-200, handles vibration better than FLA, can be mounted in any orientation, and does not off-gas under normal conditions. Sealed AGM batteries are the most common house battery choice for truck and SUV overland rigs. You can find [100Ah AGM batteries on Amazon](https://www.amazon.com/s?k=agm+deep+cycle+battery+100ah) in the $130-180 range from brands like Renogy, VMAXTANKS, and Battle Born's entry line.
+**AGM (Absorbed Glass Mat):** I use AGM for most budget builds. A 100Ah AGM runs $130-200, handles vibration better than FLA, can be mounted in any orientation, and does not off-gas under normal conditions. Sealed AGM batteries are the most common house battery choice for truck and SUV overland rigs. You can find [100Ah AGM batteries on Amazon](https://www.amazon.com/s?k=agm+deep+cycle+battery+100ah&tag=mbbeekeeping-20) in the $130-180 range from brands like Renogy, VMAXTANKS, and Battle Born's entry line.
 
 **Lithium (LiFePO4):** Better cycle life and weight savings, but $300-450 for 100Ah even on budget options. Harder to justify until you have proven you actually overland regularly. I would buy AGM first, run it for a season, and upgrade to lithium if you're doing more than 15-20 days per year.
 
@@ -35,7 +37,7 @@ The isolator is what makes a dual battery system a system rather than just two b
 
 A Voltage Sensing Relay - also called a Battery Isolator Relay or VSR - costs $20-50 and is the most common budget option. It monitors the voltage on the primary battery and closes a relay to connect the house battery once charging voltage is detected (usually around 13.3V). When voltage drops below threshold (alternator off, engine stopped), the relay opens and isolates the banks.
 
-VSRs work fine. Their limitation is that they charge both batteries at the same voltage, which is acceptable for two identical batteries but not ideal for mixing chemistries. If you are running two matched AGM batteries, a VSR is a perfectly valid budget choice. [Dual battery isolator relays](https://www.amazon.com/s?k=dual+battery+isolator+relay+vsr) are available for $25-45 from brands like CTEK, Renogy, and generic imports that work reliably.
+VSRs work fine. Their limitation is that they charge both batteries at the same voltage, which is acceptable for two identical batteries but not ideal for mixing chemistries. If you are running two matched AGM batteries, a VSR is a perfectly valid budget choice. [Dual battery isolator relays](https://www.amazon.com/s?k=dual+battery+isolator+relay+vsr&tag=mbbeekeeping-20) are available for $25-45 from brands like CTEK, Renogy, and generic imports that work reliably.
 
 ### Battery-to-Battery (B2B) Charger
 
@@ -75,7 +77,7 @@ In my experience, the cleanest runs use existing grommets and pass-throughs to g
 
 ## Adding a Battery Monitor
 
-A battery monitor is a small but important addition to any dual battery setup. A basic voltage display - $15-25 on [Amazon](https://www.amazon.com/s?k=12v+battery+voltage+monitor) - tells you the state of charge at a glance. More capable monitors from Victron or REDARC show amp-hours consumed, charge current, and estimated runtime, but they cost $60-120. For a budget build, a simple dual-display voltmeter showing both battery voltages is enough to manage your power correctly.
+A battery monitor is a small but important addition to any dual battery setup. A basic voltage display - $15-25 on [Amazon](https://www.amazon.com/s?k=12v+battery+voltage+monitor&tag=mbbeekeeping-20) - tells you the state of charge at a glance. More capable monitors from Victron or REDARC show amp-hours consumed, charge current, and estimated runtime, but they cost $60-120. For a budget build, a simple dual-display voltmeter showing both battery voltages is enough to manage your power correctly.
 
 Mount the monitor somewhere visible - I put mine on a small panel next to the driver's seat. Knowing your battery voltage before bed tells you whether you can run the fridge another 8 hours or whether you need to start the engine for 20 minutes to top up.
 
@@ -136,4 +138,3 @@ If you are building out your rig from scratch, the [complete budget overland bui
   <p>The Budget Overlander team covers trail-ready vehicle builds that don't require a second mortgage. Our guides come from real builds, real trails, and real budgets - not catalog wishlists.</p>
 </div>
 
-*As an Amazon Associate we earn from qualifying purchases at no extra cost to you.*
