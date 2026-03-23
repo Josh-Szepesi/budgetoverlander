@@ -6,6 +6,7 @@ categories: [overlanding, budget, build]
 description: "You can build a genuinely capable overland rig for under $2,000 in parts. Here is a real parts list that covers the essentials."
 ---
 
+*This post contains affiliate links. As an Amazon Associate, I earn from qualifying purchases at no extra cost to you.*
 
 This is a parts-focused guide for someone who already has a capable vehicle (a used 4Runner, Tacoma, Wrangler, or similar 4x4) and wants to build it into a real overlanding platform without spending like a content creator. The goal is under $2,000 total in modifications and gear.
 
@@ -113,11 +114,10 @@ Stock vehicle? You don't need modifications to start overlanding. See our [Overl
 
 Here are a few products to help with what we covered in this guide:
 
-- **[Recovery Kit Off Road](https://www.amazon.com/s?k=recovery+kit+off+road+tow+strap)**
-- **[Budget Camping Gear Set](https://www.amazon.com/s?k=budget+camping+gear+set)**
-- **[Portable Jump Starter Compact](https://www.amazon.com/s?k=portable+jump+starter+compact)**
+- **[Recovery Kit Off Road](https://www.amazon.com/s?k=recovery+kit+off+road+tow+strap&tag=mbbeekeeping-20)**
+- **[Budget Camping Gear Set](https://www.amazon.com/s?k=budget+camping+gear+set&tag=mbbeekeeping-20)**
+- **[Portable Jump Starter Compact](https://www.amazon.com/s?k=portable+jump+starter+compact&tag=mbbeekeeping-20)**
 
-*As an Amazon Associate we earn from qualifying purchases at no extra cost to you.*
 
 <div class="author-bio">
 <p><strong>About the Author</strong></p>
