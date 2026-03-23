@@ -4,7 +4,9 @@ title: "Budget Overland Build Under $2,000: A Complete Parts List"
 date: 2026-03-11
 categories: [overlanding, budget, build]
 description: "You can build a genuinely capable overland rig for under $2,000 in parts. Here is a real parts list that covers the essentials."
+image: /assets/images/2026-03-11-budget-overland-build-under-2000.jpg
 ---
+
 
 *This post contains affiliate links. As an Amazon Associate, I earn from qualifying purchases at no extra cost to you.*
 
@@ -14,6 +16,11 @@ This is a parts-focused guide for someone who already has a capable vehicle (a u
 **Safety Note:** When adding suspension modifications or significant weight to a vehicle, have the alignment checked professionally afterward. DIY electrical work should be properly fused and rated for the load - undersized wiring is a fire hazard. Any vehicle modification affecting steering or braking should be inspected by a qualified mechanic.
 </div>
 
+
+
+![Budget Overland Build Under $2,000: A Complete Parts List](/assets/images/2026-03-11-budget-overland-build-under-2000.jpg)
+
+<p class="image-credit">Photo by <a href="https://unsplash.com/@omerhaktan?utm_source=artlines_blog&utm_medium=referral">Ömer Haktan Bulut</a> on <a href="https://unsplash.com/?utm_source=artlines_blog&utm_medium=referral">Unsplash</a></p>
 
 ## Assumptions
 
