@@ -4,7 +4,9 @@ title: "Navigation Tools for Overlanding: From Free Apps to Dedicated GPS"
 date: 2026-03-11
 categories: [overlanding, navigation]
 description: "Cell service ends fast when you leave pavement. These navigation tools keep you oriented on remote routes without relying on a signal."
+image: /assets/images/2026-03-11-navigation-tools-for-overlanding.jpg
 ---
+
 
 *This post contains affiliate links. As an Amazon Associate, I earn from qualifying purchases at no extra cost to you.*
 
@@ -14,6 +16,11 @@ Cell service is unreliable on most overlanding routes. Even where you have signa
 **Safety Note:** Never rely solely on a cell signal or a single navigation device in the backcountry. Download offline maps before your trip and carry a paper topo as a last resort. A dead phone battery has left more than one overlander stranded.
 </div>
 
+
+
+![Navigation Tools for Overlanding: From Free Apps to Dedicated GPS](/assets/images/2026-03-11-navigation-tools-for-overlanding.jpg)
+
+<p class="image-credit">Photo by <a href="https://unsplash.com/@dmjdenise?utm_source=artlines_blog&utm_medium=referral">Denise Jans</a> on <a href="https://unsplash.com/?utm_source=artlines_blog&utm_medium=referral">Unsplash</a></p>
 
 ## Phone-Based Navigation (Best Value)
 
