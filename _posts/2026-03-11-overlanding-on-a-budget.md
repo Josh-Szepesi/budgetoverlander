@@ -6,6 +6,7 @@ categories: [overlanding, budget]
 description: "You can build a functional overlanding kit for under $500. Here is exactly how to prioritize your spending."
 ---
 
+*This post contains affiliate links. As an Amazon Associate, I earn from qualifying purchases at no extra cost to you.*
 
 The most common misconception about overlanding is that you need an expensive build to participate. You do not. Thousands of people explore remote terrain every weekend in stock vehicles with modest gear. This guide builds a complete starter kit for under $500.
 
@@ -85,11 +86,10 @@ For a specific budget build framework, check out our [Budget Overland Build Unde
 
 Here are a few products to help with what we covered in this guide:
 
-- **[Recovery Kit Off Road](https://www.amazon.com/s?k=recovery+kit+off+road+tow+strap)**
-- **[Budget Camping Gear Set](https://www.amazon.com/s?k=budget+camping+gear+set)**
-- **[Portable Jump Starter Compact](https://www.amazon.com/s?k=portable+jump+starter+compact)**
+- **[Recovery Kit Off Road](https://www.amazon.com/s?k=recovery+kit+off+road+tow+strap&tag=mbbeekeeping-20)**
+- **[Budget Camping Gear Set](https://www.amazon.com/s?k=budget+camping+gear+set&tag=mbbeekeeping-20)**
+- **[Portable Jump Starter Compact](https://www.amazon.com/s?k=portable+jump+starter+compact&tag=mbbeekeeping-20)**
 
-*As an Amazon Associate we earn from qualifying purchases at no extra cost to you.*
 
 <div class="author-bio">
 <p><strong>About the Author</strong></p>
