@@ -6,6 +6,7 @@ categories: [overlanding, navigation]
 description: "Cell service ends fast when you leave pavement. These navigation tools keep you oriented on remote routes without relying on a signal."
 ---
 
+*This post contains affiliate links. As an Amazon Associate, I earn from qualifying purchases at no extra cost to you.*
 
 Cell service is unreliable on most overlanding routes. Even where you have signal at the trailhead, you lose it fast once you are a few miles in. Navigation tools that work offline are not optional; they are essential. Here is what actually works.
 
@@ -77,11 +78,10 @@ Good navigation pairs with good communication. Our [Solo Overlanding Safety guid
 
 Here are a few products to help with what we covered in this guide:
 
-- **[Portable Jump Starter](https://www.amazon.com/s?k=portable+jump+starter+battery+pack)**
-- **[Air Compressor 12V Tire](https://www.amazon.com/s?k=portable+air+compressor+12v+tire)**
-- **[Multi-Tool Recovery Kit](https://www.amazon.com/s?k=off+road+tool+kit+recovery)**
+- **[Portable Jump Starter](https://www.amazon.com/s?k=portable+jump+starter+battery+pack&tag=mbbeekeeping-20)**
+- **[Air Compressor 12V Tire](https://www.amazon.com/s?k=portable+air+compressor+12v+tire&tag=mbbeekeeping-20)**
+- **[Multi-Tool Recovery Kit](https://www.amazon.com/s?k=off+road+tool+kit+recovery&tag=mbbeekeeping-20)**
 
-*As an Amazon Associate we earn from qualifying purchases at no extra cost to you.*
 
 <div class="author-bio">
 <p><strong>About the Author</strong></p>
