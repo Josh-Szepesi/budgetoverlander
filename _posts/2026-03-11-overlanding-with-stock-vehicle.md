@@ -6,6 +6,7 @@ categories: [overlanding, beginner]
 description: "Your unmodified 4x4 or AWD vehicle can handle far more than you think. Here is what stock vehicles can and cannot do for overlanding."
 ---
 
+*This post contains affiliate links. As an Amazon Associate, I earn from qualifying purchases at no extra cost to you.*
 
 One of the most persistent myths in the overlanding community is that you need a heavily modified vehicle to participate. You do not. Millions of miles of public land roads, forest service tracks, and graded dirt routes are accessible to stock or minimally modified vehicles. Here is a realistic assessment of what you can do without touching your factory setup.
 
@@ -71,9 +72,8 @@ When you're ready to start adding gear, begin with the essentials. Our [Overland
 
 Here are a few products that can help with what we covered in this guide:
 
-- **[Off Road Recovery Boards](https://www.amazon.com/s?k=off+road+recovery+boards)**
+- **[Off Road Recovery Boards](https://www.amazon.com/s?k=off+road+recovery+boards&tag=mbbeekeeping-20)**
 
-*As an Amazon Associate we earn from qualifying purchases at no extra cost to you.*
 
 <div class="author-bio">
 <p><strong>About the Author</strong></p>
