@@ -4,7 +4,9 @@ title: "Best Overlanding Tires for the Budget Builder"
 date: 2026-03-11
 categories: [overlanding, tires]
 description: "Tires are the most important upgrade for any overlanding vehicle. Here are the best options that balance off-road performance with price."
+image: /assets/images/2026-03-11-best-overlanding-tires.jpg
 ---
+
 
 *This post contains affiliate links. As an Amazon Associate, I earn from qualifying purchases at no extra cost to you.*
 
@@ -14,6 +16,11 @@ Tires are the single most impactful upgrade you can make to an overlanding vehic
 **Safety Note:** Never exceed your vehicle's load rating when selecting tires, and always re-torque lug nuts after the first 50 miles following a tire change. Airing down on the trail and forgetting to re-inflate before highway speeds is a common cause of blowouts - carry a portable air compressor and use it.
 </div>
 
+
+
+![Best Overlanding Tires for the Budget Builder](/assets/images/2026-03-11-best-overlanding-tires.jpg)
+
+<p class="image-credit">Photo by <a href="https://unsplash.com/@heyquilia?utm_source=artlines_blog&utm_medium=referral">Kenny Eliason</a> on <a href="https://unsplash.com/?utm_source=artlines_blog&utm_medium=referral">Unsplash</a></p>
 
 ## All-Terrain vs. Mud-Terrain
 
