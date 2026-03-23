@@ -3,13 +3,20 @@ layout: post
 title: "Budget Dual Battery Setup for Overlanding: A Complete How-To Guide"
 date: 2026-03-16
 description: "Build a reliable budget dual battery setup for overlanding for under $400. Step-by-step wiring, isolator options, and gear picks for any rig."
+image: /assets/images/2026-03-16-budget-dual-battery-setup-for-overlanding.jpg
 ---
+
 
 *This post contains affiliate links. As an Amazon Associate, I earn from qualifying purchases at no extra cost to you.*
 
 Running a fridge, camp lights, and a USB hub off one starting battery is a fast track to a dead rig at the worst possible moment. A dual battery setup is one of the upgrades I keep recommending to newer overlanders because the payoff-to-cost ratio is hard to beat - you get true off-grid power without a generator, and a properly wired system protects your starting battery no matter how long you camp. I built my first budget dual battery setup for right around $350 in parts, and it has run reliably through two seasons of weekend trips and a pair of 10-day runs in the desert.
 
 **Safety Note:** This project involves live 12V wiring and connections to your vehicle's main electrical system. Disconnect the negative terminal of your primary battery before running any new cabling. If your vehicle has supplemental restraint system (SRS) backup power near the battery - common on newer trucks and SUVs - consult the factory service manual before working in that area. Route all new wiring away from exhaust components, sharp edges, and moving parts, and protect runs with split loom conduit secured with cable ties. If you are not comfortable tracing the existing wiring in your engine bay or under your dash, a certified 12V installer is a better use of money than a fried alternator harness or a vehicle fire.
+
+
+![Budget Dual Battery Setup for Overlanding: A Complete How-To Guide](/assets/images/2026-03-16-budget-dual-battery-setup-for-overlanding.jpg)
+
+<p class="image-credit">Photo by <a href="https://unsplash.com/@dillydallying?utm_source=artlines_blog&utm_medium=referral">Dillon Wanner</a> on <a href="https://unsplash.com/?utm_source=artlines_blog&utm_medium=referral">Unsplash</a></p>
 
 ## What a Dual Battery System Actually Does
 
@@ -137,4 +144,3 @@ If you are building out your rig from scratch, the [complete budget overland bui
   <p><strong>About the Author</strong></p>
   <p>The Budget Overlander team covers trail-ready vehicle builds that don't require a second mortgage. Our guides come from real builds, real trails, and real budgets - not catalog wishlists.</p>
 </div>
-
