@@ -4,7 +4,9 @@ title: "Budget Overland Camp Kitchen Setup: Cook Real Food on the Trail"
 date: 2026-03-11
 categories: [overlanding, camp-kitchen]
 description: "A great camp kitchen does not require expensive equipment. Here is how to cook well on the trail without spending a lot."
+image: /assets/images/2026-03-11-overland-camp-kitchen-setup.jpg
 ---
+
 
 *This post contains affiliate links. As an Amazon Associate, I earn from qualifying purchases at no extra cost to you.*
 
@@ -14,6 +16,11 @@ Eating well in the backcountry is one of the great pleasures of overlanding. You
 **Safety Note:** Never use propane stoves inside a vehicle, tent, or any enclosed space - CO buildup can be fatal within minutes. Always cook in a well-ventilated area and keep a fire extinguisher accessible when cooking. Let camp stoves cool completely before packing them away.
 </div>
 
+
+
+![Budget Overland Camp Kitchen Setup: Cook Real Food on the Trail](/assets/images/2026-03-11-overland-camp-kitchen-setup.jpg)
+
+<p class="image-credit">Photo by <a href="https://unsplash.com/@fabianerik?utm_source=artlines_blog&utm_medium=referral">Erik Fabian</a> on <a href="https://unsplash.com/?utm_source=artlines_blog&utm_medium=referral">Unsplash</a></p>
 
 ## The Core Kitchen Setup
 
