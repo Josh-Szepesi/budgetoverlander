@@ -6,6 +6,7 @@ categories: [overlanding, tires]
 description: "Tires are the most important upgrade for any overlanding vehicle. Here are the best options that balance off-road performance with price."
 ---
 
+*This post contains affiliate links. As an Amazon Associate, I earn from qualifying purchases at no extra cost to you.*
 
 Tires are the single most impactful upgrade you can make to an overlanding vehicle. Before any lift kit, before any skid plates, better tires transform how your vehicle handles loose terrain. Here is how to choose the right set without overspending.
 
@@ -67,11 +68,10 @@ Once your tires are sorted, recovery gear is the next priority. Read our [Overla
 
 Here are a few products to help with what we covered in this guide:
 
-- **[All Terrain Tires Truck](https://www.amazon.com/s?k=all+terrain+tires+truck+suv)**
-- **[Tire Pressure Monitor](https://www.amazon.com/s?k=tire+pressure+monitoring+system+wireless)**
-- **[Air Compressor Portable](https://www.amazon.com/s?k=portable+air+compressor+12v+overlanding)**
+- **[All Terrain Tires Truck](https://www.amazon.com/s?k=all+terrain+tires+truck+suv&tag=mbbeekeeping-20)**
+- **[Tire Pressure Monitor](https://www.amazon.com/s?k=tire+pressure+monitoring+system+wireless&tag=mbbeekeeping-20)**
+- **[Air Compressor Portable](https://www.amazon.com/s?k=portable+air+compressor+12v+overlanding&tag=mbbeekeeping-20)**
 
-*As an Amazon Associate we earn from qualifying purchases at no extra cost to you.*
 
 <div class="author-bio">
 <p><strong>About the Author</strong></p>
