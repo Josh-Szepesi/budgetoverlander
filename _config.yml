@@ -3,5 +3,7 @@ description: Practical overlanding and 4x4 adventure guides for budget-conscious
 url: "https://budgetoverlander.com"
 baseurl: ""
 theme: minima
+permalink: /:year/:month/:day/:title
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
