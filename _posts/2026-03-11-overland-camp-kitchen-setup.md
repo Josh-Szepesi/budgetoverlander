@@ -89,9 +89,9 @@ A good kitchen needs a good camp setup. Our [Overlanding for Beginners guide](/2
 
 Here are a few products to help with what we covered in this guide:
 
-- **[Rooftop Tent Overlanding](https://www.amazon.com/s?k=rooftop+tent+budget+overlanding&tag=mbbeekeeping-20)**
-- **[Sleeping Bag Camping](https://www.amazon.com/s?k=sleeping+bag+mummy+camping&tag=mbbeekeeping-20)**
-- **[Camp Stove 2 Burner](https://www.amazon.com/s?k=camp+stove+2+burner+propane&tag=mbbeekeeping-20)**
+- **[Rooftop Tent Overlanding](https://www.amazon.com/s?k=rooftop+tent+budget+overlanding)**
+- **[Sleeping Bag Camping](https://www.amazon.com/s?k=sleeping+bag+mummy+camping)**
+- **[Camp Stove 2 Burner](https://www.amazon.com/s?k=camp+stove+2+burner+propane)**
 
 
 <div class="author-bio">
