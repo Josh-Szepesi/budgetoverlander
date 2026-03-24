@@ -85,9 +85,9 @@ Good navigation pairs with good communication. Our [Solo Overlanding Safety guid
 
 Here are a few products to help with what we covered in this guide:
 
-- **[Portable Jump Starter](https://www.amazon.com/s?k=portable+jump+starter+battery+pack&tag=mbbeekeeping-20)**
-- **[Air Compressor 12V Tire](https://www.amazon.com/s?k=portable+air+compressor+12v+tire&tag=mbbeekeeping-20)**
-- **[Multi-Tool Recovery Kit](https://www.amazon.com/s?k=off+road+tool+kit+recovery&tag=mbbeekeeping-20)**
+- **[Portable Jump Starter](https://www.amazon.com/s?k=portable+jump+starter+battery+pack)**
+- **[Air Compressor 12V Tire](https://www.amazon.com/s?k=portable+air+compressor+12v+tire)**
+- **[Multi-Tool Recovery Kit](https://www.amazon.com/s?k=off+road+tool+kit+recovery)**
 
 
 <div class="author-bio">
