@@ -67,9 +67,9 @@ Once your rack is on, think about what you're carrying. Our [Budget Overland Bui
 
 Here are a few products to help with what we covered in this guide:
 
-- **[Roof Rack Cargo Basket](https://www.amazon.com/s?k=roof+rack+cargo+basket+off+road&tag=mbbeekeeping-20)**
-- **[Waterproof Storage Box](https://www.amazon.com/s?k=waterproof+storage+box+overlanding&tag=mbbeekeeping-20)**
-- **[Truck Bed Organizer](https://www.amazon.com/s?k=truck+bed+storage+organizer&tag=mbbeekeeping-20)**
+- **[Roof Rack Cargo Basket](https://www.amazon.com/s?k=roof+rack+cargo+basket+off+road)**
+- **[Waterproof Storage Box](https://www.amazon.com/s?k=waterproof+storage+box+overlanding)**
+- **[Truck Bed Organizer](https://www.amazon.com/s?k=truck+bed+storage+organizer)**
 
 
 <div class="author-bio">
