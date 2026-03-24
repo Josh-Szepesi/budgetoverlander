@@ -39,7 +39,7 @@ The first line of defense is a good rain suit. You will be setting up camp in th
 
 We've used the Frogg Toggs All Sport Rain Suit across several wet weekend trips and it holds up well for the price. It's lightweight, packs down small, and fits over layered clothing without restricting movement. It won't last a decade of daily use, but for occasional trail deployments it's more than adequate.
 
-[Frogg Toggs All Sport Rain Suit on Amazon](https://www.amazon.com/dp/B002SEOQ0K?tag=mbbeekeeping-20)
+[Frogg Toggs All Sport Rain Suit on Amazon](https://www.amazon.com/dp/B002SEOQ0K)
 
 ### What to look for in a budget rain suit
 
@@ -59,9 +59,9 @@ The key is having the right sizes. We run three main sizes:
 
 The Sea to Summit Ultra-Sil Dry Sack is our top pick for electronics and sleeping bag protection. The Ultra-Sil fabric weighs almost nothing, and the roll-top closure is reliable even after heavy use. If you're on a tighter budget, the MARCHWAY Floating Waterproof Dry Bag performs similarly at a lower price point and comes in a range of sizes.
 
-[Sea to Summit Ultra-Sil Dry Sack on Amazon](https://www.amazon.com/dp/B00IH8YLBE?tag=mbbeekeeping-20)
+[Sea to Summit Ultra-Sil Dry Sack on Amazon](https://www.amazon.com/dp/B00IH8YLBE)
 
-[MARCHWAY Floating Waterproof Dry Bag on Amazon](https://www.amazon.com/dp/B01N0VVPXW?tag=mbbeekeeping-20)
+[MARCHWAY Floating Waterproof Dry Bag on Amazon](https://www.amazon.com/dp/B01N0VVPXW)
 
 ## Layer 3 - Protecting Your Vehicle Storage Areas
 
@@ -91,9 +91,9 @@ Not everything needs waterproofing treatment. Cast iron cookware, recovery strap
 
 ## Recommended Products
 
-- **[Frogg Toggs All Sport Rain Suit](https://www.amazon.com/dp/B002SEOQ0K?tag=mbbeekeeping-20)** - Best budget rain suit for trail use
-- **[Sea to Summit Ultra-Sil Dry Sack](https://www.amazon.com/dp/B00IH8YLBE?tag=mbbeekeeping-20)** - Lightweight, reliable dry bag for sleeping bags and electronics
-- **[MARCHWAY Floating Waterproof Dry Bag](https://www.amazon.com/dp/B01N0VVPXW?tag=mbbeekeeping-20)** - Budget-friendly dry bag available in multiple sizes
+- **[Frogg Toggs All Sport Rain Suit](https://www.amazon.com/dp/B002SEOQ0K)** - Best budget rain suit for trail use
+- **[Sea to Summit Ultra-Sil Dry Sack](https://www.amazon.com/dp/B00IH8YLBE)** - Lightweight, reliable dry bag for sleeping bags and electronics
+- **[MARCHWAY Floating Waterproof Dry Bag](https://www.amazon.com/dp/B01N0VVPXW)** - Budget-friendly dry bag available in multiple sizes
 
 
 ---
