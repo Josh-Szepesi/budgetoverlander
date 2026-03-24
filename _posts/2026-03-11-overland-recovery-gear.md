@@ -75,9 +75,9 @@ Recovery gear only helps if you know how to use it. If you're heading out solo, 
 
 Here are a few products to help with what we covered in this guide:
 
-- **[Off Road Recovery Boards](https://www.amazon.com/s?k=off+road+recovery+boards&tag=mbbeekeeping-20)**
-- **[Kinetic Recovery Rope](https://www.amazon.com/s?k=kinetic+recovery+rope+snatch&tag=mbbeekeeping-20)**
-- **[Hi-Lift Farm Jack](https://www.amazon.com/s?k=hi+lift+farm+jack+off+road&tag=mbbeekeeping-20)**
+- **[Off Road Recovery Boards](https://www.amazon.com/s?k=off+road+recovery+boards)**
+- **[Kinetic Recovery Rope](https://www.amazon.com/s?k=kinetic+recovery+rope+snatch)**
+- **[Hi-Lift Farm Jack](https://www.amazon.com/s?k=hi+lift+farm+jack+off+road)**
 
 
 <div class="author-bio">
