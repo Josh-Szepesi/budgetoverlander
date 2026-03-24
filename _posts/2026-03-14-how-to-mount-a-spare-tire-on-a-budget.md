@@ -52,7 +52,7 @@ A hitch-mounted spare carrier drops into your 2-inch receiver and holds the tire
 
 Hitch carriers run $60-150 and are the most transferable option if you switch vehicles.
 
-## What Size Spare Do You Actually Need?
+## What Size Spare Do You Actually Need
 
 Match your spare to your mounted tires. Running a full-size matching spare means you can rotate it into your regular tire set, extending the life of the set and keeping your tread even. If you are running 33x12.50R15 tires, your spare should be the same.
 
