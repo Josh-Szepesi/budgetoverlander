@@ -75,9 +75,9 @@ Ready to build your rig? Our [Budget Overland Build Under $2,000 guide](/2026/03
 
 Here are a few products to help with what we covered in this guide:
 
-- **[Overlanding Starter Kit](https://www.amazon.com/s?k=overlanding+starter+kit&tag=mbbeekeeping-20)**
-- **[Recovery Kit Off Road](https://www.amazon.com/s?k=off+road+recovery+kit&tag=mbbeekeeping-20)**
-- **[Portable Jump Starter](https://www.amazon.com/s?k=portable+jump+starter&tag=mbbeekeeping-20)**
+- **[Overlanding Starter Kit](https://www.amazon.com/s?k=overlanding+starter+kit)**
+- **[Recovery Kit Off Road](https://www.amazon.com/s?k=off+road+recovery+kit)**
+- **[Portable Jump Starter](https://www.amazon.com/s?k=portable+jump+starter)**
 
 
 <div class="author-bio">
