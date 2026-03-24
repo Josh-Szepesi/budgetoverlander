@@ -93,9 +93,9 @@ For a specific budget build framework, check out our [Budget Overland Build Unde
 
 Here are a few products to help with what we covered in this guide:
 
-- **[Recovery Kit Off Road](https://www.amazon.com/s?k=recovery+kit+off+road+tow+strap&tag=mbbeekeeping-20)**
-- **[Budget Camping Gear Set](https://www.amazon.com/s?k=budget+camping+gear+set&tag=mbbeekeeping-20)**
-- **[Portable Jump Starter Compact](https://www.amazon.com/s?k=portable+jump+starter+compact&tag=mbbeekeeping-20)**
+- **[Recovery Kit Off Road](https://www.amazon.com/s?k=recovery+kit+off+road+tow+strap)**
+- **[Budget Camping Gear Set](https://www.amazon.com/s?k=budget+camping+gear+set)**
+- **[Portable Jump Starter Compact](https://www.amazon.com/s?k=portable+jump+starter+compact)**
 
 
 <div class="author-bio">
