@@ -38,7 +38,7 @@ In my experience, the biggest failure point on cheap compressors is the motor wi
 
 ### Best Under $40: EPAuto 12V DC Portable Air Compressor
 
-The [EPAuto 12V DC Portable Air Compressor Pump](https://www.amazon.com/s?k=EPAuto+12V+DC+Portable+Air+Compressor+Pump+AT-010-1&tag=mbbeekeeping-20) is the compressor I hand to someone building their first kit. It runs around $30-40, fits in a glove box, and handles standard passenger and light truck tires without complaint.
+The [EPAuto 12V DC Portable Air Compressor Pump](https://www.amazon.com/s?k=EPAuto+12V+DC+Portable+Air+Compressor+Pump+AT-010-1) is the compressor I hand to someone building their first kit. It runs around $30-40, fits in a glove box, and handles standard passenger and light truck tires without complaint.
 
 It is rated at 100 PSI and draws about 15 amps. The digital gauge is accurate within 1-2 PSI, which is better than most analog gauges in this price range. In practice I have found it takes roughly 8-10 minutes to air up a standard 31-inch tire from 15 PSI back to 32 PSI - not fast, but it gets the job done.
 
@@ -49,7 +49,7 @@ What I do not like: 10-minute duty cycle, and the fairly long cord-to-inflator h
 
 ### Best All-Rounder Under $80: Viair 88P
 
-The [Viair 88P Portable Compressor](https://www.amazon.com/s?k=Viair+88P+Portable+Compressor&tag=mbbeekeeping-20) is the compressor I have carried on my own rig for years, and it is the one I recommend most. At around $60-75, it sits in the sweet spot between price and real-world performance.
+The [Viair 88P Portable Compressor](https://www.amazon.com/s?k=Viair+88P+Portable+Compressor) is the compressor I have carried on my own rig for years, and it is the one I recommend most. At around $60-75, it sits in the sweet spot between price and real-world performance.
 
 The 88P runs 1.26 CFM at 0 PSI, draws 15 amps, and is rated to 30 minutes continuous duty before the thermal protector kicks in. In my testing on 33-inch tires from 18 PSI to 34 PSI, it takes about 11-14 minutes per tire. That means a full four-tire fill takes close to an hour - manageable for a solo trip but a bit slow for a group.
 
@@ -59,7 +59,7 @@ For a budget overlander running 33s or smaller, the Viair 88P is my top pick and
 
 ### Best for Bigger Tires on a Budget: Smittybilt 2781 Universal Air Compressor
 
-If you are running 35-inch or larger tires and still want to stay under $100, the [Smittybilt 2781 Universal Air Compressor](https://www.amazon.com/s?k=Smittybilt+2781+Universal+Air+Compressor&tag=mbbeekeeping-20) is what I would buy. It puts out 2.54 CFM and handles a 35-inch tire from 15 PSI to 35 PSI in roughly 10-12 minutes - nearly twice as fast as the smaller options above.
+If you are running 35-inch or larger tires and still want to stay under $100, the [Smittybilt 2781 Universal Air Compressor](https://www.amazon.com/s?k=Smittybilt+2781+Universal+Air+Compressor) is what I would buy. It puts out 2.54 CFM and handles a 35-inch tire from 15 PSI to 35 PSI in roughly 10-12 minutes - nearly twice as fast as the smaller options above.
 
 The 100% duty cycle is the headline feature here. You can run it continuously without a thermal cutoff interrupting your workflow, which matters when you have a 4-truck convoy to air up. It draws around 25 amps at peak and should be connected directly to the battery.
 
@@ -69,7 +69,7 @@ One note: the gauge on the Smittybilt is analog and slightly optimistic. I recom
 
 ### Honorable Mention: AstroAI Portable Air Compressor
 
-The [AstroAI Portable Air Compressor Pump](https://www.amazon.com/s?k=AstroAI+portable+air+compressor+12V+tire+inflator&tag=mbbeekeeping-20) is a solid sub-$30 choice for someone who wants a compact digital compressor for light-duty use. I keep one of these in my toolbox as a backup. The auto-shutoff and digital display are accurate, and the build quality is better than its price suggests.
+The [AstroAI Portable Air Compressor Pump](https://www.amazon.com/s?k=AstroAI+portable+air+compressor+12V+tire+inflator) is a solid sub-$30 choice for someone who wants a compact digital compressor for light-duty use. I keep one of these in my toolbox as a backup. The auto-shutoff and digital display are accurate, and the build quality is better than its price suggests.
 
 It is not a replacement for the Viair or Smittybilt if you are airing down regularly, but as a second compressor for emergencies or for a vehicle with smaller tires, it earns its keep. The 15-minute duty cycle limits sustained use.
 
@@ -93,7 +93,7 @@ Getting set up quickly in the field is mostly about prep at home. Here is how I 
 
 Keep your compressor in a dedicated bag or case, not loose in the cargo area. After every trip, I coil the power cable without kinking it and store the inflation hose and all attachments together. Hunting for the chuck at 6 AM on a cold morning is not the experience you want.
 
-For airing down, use separate tire deflators - not the compressor valve connector in reverse. The [Slime or similar tire deflator 4-pack](https://www.amazon.com/s?k=overlanding+tire+deflator+4-pack&tag=mbbeekeeping-20) is cheap and fast at around $15-20. Air down first with dedicated deflators, run the trail, then air up. This keeps the compressor focused on one job.
+For airing down, use separate tire deflators - not the compressor valve connector in reverse. The [Slime or similar tire deflator 4-pack](https://www.amazon.com/s?k=overlanding+tire+deflator+4-pack) is cheap and fast at around $15-20. Air down first with dedicated deflators, run the trail, then air up. This keeps the compressor focused on one job.
 
 Once you connect to the battery and hook up the hose, let the compressor run to target pressure with the auto-shutoff set. Walk away. Check your tires with a handheld gauge when done - a quality handheld gives you a second opinion in 10 seconds and catches any errors.
 
