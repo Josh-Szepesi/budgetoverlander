@@ -75,9 +75,9 @@ Once your tires are sorted, recovery gear is the next priority. Read our [Overla
 
 Here are a few products to help with what we covered in this guide:
 
-- **[All Terrain Tires Truck](https://www.amazon.com/s?k=all+terrain+tires+truck+suv&tag=mbbeekeeping-20)**
-- **[Tire Pressure Monitor](https://www.amazon.com/s?k=tire+pressure+monitoring+system+wireless&tag=mbbeekeeping-20)**
-- **[Air Compressor Portable](https://www.amazon.com/s?k=portable+air+compressor+12v+overlanding&tag=mbbeekeeping-20)**
+- **[All Terrain Tires Truck](https://www.amazon.com/s?k=all+terrain+tires+truck+suv)**
+- **[Tire Pressure Monitor](https://www.amazon.com/s?k=tire+pressure+monitoring+system+wireless)**
+- **[Air Compressor Portable](https://www.amazon.com/s?k=portable+air+compressor+12v+overlanding)**
 
 
 <div class="author-bio">
