@@ -115,7 +115,7 @@ Every item on this list was chosen because it works. Nothing was chosen to look 
 - [Overlanding With a Stock Vehicle](/2026/03/11/overlanding-with-stock-vehicle.html)
 - [Overland Recovery Gear](/2026/03/11/overland-recovery-gear.html)
 
-Stock vehicle? You don't need modifications to start overlanding. See our [Overlanding With a Stock Vehicle guide](/2026/03/11/overlanding-with-stock-vehicle.html).
+Stock vehicle You don't need modifications to start overlanding. See our [Overlanding With a Stock Vehicle guide](/2026/03/11/overlanding-with-stock-vehicle.html).
 
 ## Recommended Products
 
