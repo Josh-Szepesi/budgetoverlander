@@ -79,7 +79,7 @@ When you're ready to start adding gear, begin with the essentials. Our [Overland
 
 Here are a few products that can help with what we covered in this guide:
 
-- **[Off Road Recovery Boards](https://www.amazon.com/s?k=off+road+recovery+boards&tag=mbbeekeeping-20)**
+- **[Off Road Recovery Boards](https://www.amazon.com/s?k=off+road+recovery+boards)**
 
 
 <div class="author-bio">
