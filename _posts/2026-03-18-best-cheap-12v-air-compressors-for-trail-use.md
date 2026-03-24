@@ -99,7 +99,7 @@ Once you connect to the battery and hook up the hose, let the compressor run to 
 
 For recovery gear setup and what to carry alongside your compressor, the [overland recovery gear guide](https://budgetoverlander.com/2026/03/11/overland-recovery-gear.html) covers the full kit.
 
-## What About Onboard Compressors
+## What About Onboard Compressors?
 
 Onboard compressors like the ARB CKMP12 or Viair 400C mount permanently under the hood, connect directly to the vehicle's power, and run significantly faster than any portable unit in this price range. They cost $200-600 installed.
 
