@@ -43,7 +43,7 @@ The Rightline Gear tent lineup is consistently the best combination of quality a
 
 The 5.5-foot bed version is the most versatile option for common full-size trucks. The interior is roomy enough for two people with sleeping bags, and the raised walls give enough headroom to sit up and change clothes without contorting. The polyester taffeta fabric holds up to UV exposure better than cheaper alternatives we have tested.
 
-[Rightline Gear Full-Size Short Truck Bed Tent on Amazon](https://www.amazon.com/dp/B00FSBE7BE?tag=mbbeekeeping-20)
+[Rightline Gear Full-Size Short Truck Bed Tent on Amazon](https://www.amazon.com/dp/B00FSBE7BE)
 
 ### Napier Backroadz Truck Tent 13 Series
 
@@ -51,7 +51,7 @@ Napier has been making truck tents for over 30 years and the Backroadz 13 series
 
 One thing we appreciate about the Backroadz design is the full-coverage rainfly with a peaked profile that sheds water efficiently. It does not pool on top the way some flatter designs do. The tent door placement also lets you access the cab through the rear window of most trucks - a useful feature when you do not want to climb out into the rain to grab something.
 
-[Napier Backroadz Truck Tent 13 Series on Amazon](https://www.amazon.com/dp/B07GM4M7K3?tag=mbbeekeeping-20)
+[Napier Backroadz Truck Tent 13 Series on Amazon](https://www.amazon.com/dp/B07GM4M7K3)
 
 ## Adding Comfort with a Truck Bed Air Mattress
 
@@ -59,7 +59,7 @@ A sleeping bag directly on a truck bed floor - even a clean one - is uncomfortab
 
 The Offroading Gear inflatable truck bed mattress is sized for 6- to 6.5-foot beds and inflates using a 12V pump (or the included manual pump as a backup). The side chambers fill around the wheel wells and create a flat platform across the full bed. Paired with a truck bed tent, this gets you very close to the sleeping experience of a purpose-built RTT at a fraction of the cost.
 
-[Offroading Gear Inflatable Truck Bed Air Mattress on Amazon](https://www.amazon.com/dp/B08TZNWPCJ?tag=mbbeekeeping-20)
+[Offroading Gear Inflatable Truck Bed Air Mattress on Amazon](https://www.amazon.com/dp/B08TZNWPCJ)
 
 ## Under $300 vs. the $400-500 Range
 
@@ -87,9 +87,9 @@ For a fuller picture of how sleeping platforms, storage systems, and gear carryi
 
 ## Recommended Products
 
-- **[Rightline Gear Full-Size Short Truck Bed Tent](https://www.amazon.com/dp/B00FSBE7BE?tag=mbbeekeeping-20)** - Best all-around truck bed tent for full-size trucks with 5.5-foot beds
-- **[Napier Backroadz Truck Tent 13 Series](https://www.amazon.com/dp/B07GM4M7K3?tag=mbbeekeeping-20)** - Top pick for ease of setup and rainfly coverage
-- **[Offroading Gear Inflatable Truck Bed Air Mattress](https://www.amazon.com/dp/B08TZNWPCJ?tag=mbbeekeeping-20)** - Fills the wheel well contours for a flat, comfortable sleeping surface
+- **[Rightline Gear Full-Size Short Truck Bed Tent](https://www.amazon.com/dp/B00FSBE7BE)** - Best all-around truck bed tent for full-size trucks with 5.5-foot beds
+- **[Napier Backroadz Truck Tent 13 Series](https://www.amazon.com/dp/B07GM4M7K3)** - Top pick for ease of setup and rainfly coverage
+- **[Offroading Gear Inflatable Truck Bed Air Mattress](https://www.amazon.com/dp/B08TZNWPCJ)** - Fills the wheel well contours for a flat, comfortable sleeping surface
 
 ---
 
