@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "How to Waterproof Your Gear for Overland Camping"
+description: "Keep your overland camping gear dry with practical waterproofing methods for sleeping bags, electronics, and storage — without spending a fortune on new kit."
 date: 2026-03-22
 tags: [overlanding, offroad, budget, camping]
 image: /assets/images/2026-03-22-how-to-waterproof-your-gear-for-overland-camping.jpg
