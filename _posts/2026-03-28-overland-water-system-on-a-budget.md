@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "How to Build an Overland Water System on a Budget"
+description: "Build a reliable overland water system on a budget — sized for actual trip needs, without the $800 permanent tank most first-time overlanders don't need yet."
 date: 2026-03-28
 image: /assets/images/2026-03-28-overland-water-system-on-a-budget.jpg
 ---
