@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Best Budget Roof Tents Under $500"
+description: "The best budget roof tents under $500 — compared by setup speed, weight capacity, weather resistance, and real-world value for overlanders watching costs."
 date: 2026-03-25
 tags: [overlanding, offroad, budget, camping, gear]
 image: /assets/images/2026-03-25-best-budget-roof-tents-under-500.jpg
