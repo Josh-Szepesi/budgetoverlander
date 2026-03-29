@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "DIY Overland Sleeping Platform: A Complete Build Guide"
+description: "Build a DIY overland sleeping platform that sits above the wheel wells, stays flat, and puts usable storage underneath — with a complete step-by-step build guide."
 date: 2026-03-26
 image: /assets/images/2026-03-26-diy-overland-sleeping-platform-build-guide.jpg
 ---
