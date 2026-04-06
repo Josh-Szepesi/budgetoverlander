@@ -66,7 +66,7 @@ You do not need a professional fab shop to build solid skid plates. Here is the 
 
 **Step 5: Weld tabs or use hardware.** If you have a welder, add angle iron tabs for rigid mounting points. If not, heavy-duty carriage bolts and thick washers can do the job. Grade 8 hardware is worth the extra cost here.
 
-**Step 6: Paint or undercoat.** Bare steel will rust fast. A few coats of [Rust-Oleum Stops Rust flat black spray](https://www.amazon.com/dp/B000BXNJKU/) are the cheapest option and hold up well enough for most builds. For more durable protection, brush on rubberized undercoating before the topcoat.
+**Step 6: Paint or undercoat.** Bare steel will rust fast. A few coats of [Rust-Oleum Stops Rust flat black spray](https://www.amazon.com/dp/B0D1G1MWKP) are the cheapest option and hold up well enough for most builds. For more durable protection, brush on rubberized undercoating before the topcoat.
 
 ## Budget Breakdown for a Basic Two-Piece Skid Set
 
