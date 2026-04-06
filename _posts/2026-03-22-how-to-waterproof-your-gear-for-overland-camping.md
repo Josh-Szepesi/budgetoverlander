@@ -40,7 +40,7 @@ The first line of defense is a good rain suit. You will be setting up camp in th
 
 We've used the Frogg Toggs All Sport Rain Suit across several wet weekend trips and it holds up well for the price. It's lightweight, packs down small, and fits over layered clothing without restricting movement. It won't last a decade of daily use, but for occasional trail deployments it's more than adequate.
 
-[Frogg Toggs All Sport Rain Suit on Amazon](https://www.amazon.com/dp/B002SEOQ0K)
+[Frogg Toggs All Sport Rain Suit on Amazon](https://www.amazon.com/dp/B07WDLBGP9)
 
 ### What to look for in a budget rain suit
 
@@ -92,7 +92,7 @@ Not everything needs waterproofing treatment. Cast iron cookware, recovery strap
 
 ## Recommended Products
 
-- **[Frogg Toggs All Sport Rain Suit](https://www.amazon.com/dp/B002SEOQ0K)** - Best budget rain suit for trail use
+- **[Frogg Toggs All Sport Rain Suit](https://www.amazon.com/dp/B07WDLBGP9)** - Best budget rain suit for trail use
 - **[Sea to Summit Ultra-Sil Dry Sack](https://www.amazon.com/dp/B00IH8YLBE)** - Lightweight, reliable dry bag for sleeping bags and electronics
 - **[MARCHWAY Floating Waterproof Dry Bag](https://www.amazon.com/dp/B01N0VVPXW)** - Budget-friendly dry bag available in multiple sizes
 
