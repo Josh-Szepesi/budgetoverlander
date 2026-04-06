@@ -60,7 +60,7 @@ The key is having the right sizes. We run three main sizes:
 
 The Sea to Summit Ultra-Sil Dry Sack is our top pick for electronics and sleeping bag protection. The Ultra-Sil fabric weighs almost nothing, and the roll-top closure is reliable even after heavy use. If you're on a tighter budget, the MARCHWAY Floating Waterproof Dry Bag performs similarly at a lower price point and comes in a range of sizes.
 
-[Sea to Summit Ultra-Sil Dry Sack on Amazon](https://www.amazon.com/dp/B00IH8YLBE)
+[Sea to Summit Ultra-Sil Dry Sack on Amazon](https://www.amazon.com/dp/B09FFQ6J3T)
 
 [MARCHWAY Floating Waterproof Dry Bag on Amazon](https://www.amazon.com/dp/B01N0VVPXW)
 
@@ -93,7 +93,7 @@ Not everything needs waterproofing treatment. Cast iron cookware, recovery strap
 ## Recommended Products
 
 - **[Frogg Toggs All Sport Rain Suit](https://www.amazon.com/dp/B07WDLBGP9)** - Best budget rain suit for trail use
-- **[Sea to Summit Ultra-Sil Dry Sack](https://www.amazon.com/dp/B00IH8YLBE)** - Lightweight, reliable dry bag for sleeping bags and electronics
+- **[Sea to Summit Ultra-Sil Dry Sack](https://www.amazon.com/dp/B09FFQ6J3T)** - Lightweight, reliable dry bag for sleeping bags and electronics
 - **[MARCHWAY Floating Waterproof Dry Bag](https://www.amazon.com/dp/B01N0VVPXW)** - Budget-friendly dry bag available in multiple sizes
 
 
