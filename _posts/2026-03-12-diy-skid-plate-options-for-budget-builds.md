@@ -58,7 +58,7 @@ You do not need a professional fab shop to build solid skid plates. Here is the 
 
 **Step 1: Template first.** Use cardboard to trace the area you want to protect. Account for drain plugs, drain holes, and any factory mounting tabs. Leave at least 1" of clearance around anything that gets hot, like the exhaust.
 
-**Step 2: Transfer to steel.** Use a marker and a straight edge to trace your template onto the steel sheet. Cut with an angle grinder and cutting wheel or a plasma cutter if you have one. Clean up edges with a [flap disc set like these Mercer Industries 60-grit discs](https://www.amazon.com/dp/B0058YNJZI/), which are inexpensive and last through several builds.
+**Step 2: Transfer to steel.** Use a marker and a straight edge to trace your template onto the steel sheet. Cut with an angle grinder and cutting wheel or a plasma cutter if you have one. Clean up edges with a [flap disc set like these Mercer Industries 60-grit discs](https://www.amazon.com/dp/B0FNXBCMW4), which are inexpensive and last through several builds.
 
 **Step 3: Drill your mounting holes.** Most DIY skids mount to existing frame holes, crossmember bolts, or factory skid tabs. Use a center punch and a sharp drill bit rated for steel. Step bits work well for larger holes. Keep holes tight to the edge as this weakens the plate.
 
