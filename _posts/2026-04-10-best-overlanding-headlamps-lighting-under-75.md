@@ -21,7 +21,7 @@ Not all headlamps are built for the same conditions. A headlamp designed for tra
 
 Here are the specs that matter and why:
 
-**Lumens** measure the total light output. For overlanding, you want a headlamp that can hit at least 200 lumens on its high mode. That sounds low, but 200 lumens at a focused beam goes a long way. The issue with most budget headlamps is not peak brightness — it is whether they can sustain that brightness for more than 20 minutes before stepping down. Look for a regulated output design that holds lumens steady, not a "max then fade" design.
+**Lumens** measure the total light output. For overlanding, you want a headlamp that can hit at least 200 lumens on its high mode. That sounds low, but 200 lumens at a focused beam goes a long way. The issue with most budget headlamps is not peak brightness: it is whether they can sustain that brightness for more than 20 minutes before stepping down. Look for a regulated output design that holds lumens steady, not a "max then fade" design.
 
 **Beam type** breaks down to flood versus spot. Flood illuminates a wide area close to you, which is what you want when you are working at camp or under the hood. Spot throws a narrow beam far down the trail, useful when you are hiking or scouting. Most decent overlanding headlamps offer both, or a middle-ground mixed beam. Avoid single-mode headlamps that only throw a narrow spotlight.
 
@@ -49,7 +49,7 @@ All three earn their place in an overland kit at different roles. The 2-pack cov
 
 The [LED Headlamp 2-Pack](https://www.amazon.com/dp/B07QGRWZNB) lands under $25 for two headlamps, which makes it the obvious choice for outfitting a group or keeping a spare in the rig. We have used this style of budget headlamp as a vehicle-side emergency light for two seasons, and it holds up better than you would expect at the price point.
 
-The red light mode works properly, the elastic strap adjusts to fit over a beanie, and the AAA batteries are something you already carry. The downside is the high mode brightness steps down after a few minutes — that is normal for unregulated LED designs. For stationary camp use and quick work tasks, it is not a problem. For extended under-hood work, we pair it with a magnetic work light so the headlamp is not the only source.
+The red light mode works properly, the elastic strap adjusts to fit over a beanie, and the AAA batteries are something you already carry. The downside is the high mode brightness steps down after a few minutes, which is normal for unregulated LED designs. For stationary camp use and quick work tasks, it is not a problem. For extended under-hood work, we pair it with a magnetic work light so the headlamp is not the only source.
 
 For a dedicated backup headlamp and a budget primary, this is the best dollar-per-lumen value available.
 
@@ -73,7 +73,7 @@ The trade-off is runtime. At max brightness, you are looking at about two hours.
 
 A headlamp handles personal task lighting. It does not handle camp-wide illumination, and trying to use it for both means either blinding everyone you talk to or wearing it all night. Camp lighting is a separate category with a separate budget, and you can cover it for very little.
 
-**LED lanterns** are the practical choice for tent and table illumination. A collapsible LED lantern that packs flat and runs on AA or AAA batteries covers a 10 to 15 foot radius well enough for cooking, eating, and gear organization. The Black Diamond Moji and similar collapsible LED lanterns run $20 to $35 and are genuinely packable. We have also tested cheap rechargeable lanterns from Amazon — the quality is inconsistent, but models with decent reviews and a 300+ lumen rating are usually acceptable as a backup lantern.
+**LED lanterns** are the practical choice for tent and table illumination. A collapsible LED lantern that packs flat and runs on AA or AAA batteries covers a 10 to 15 foot radius well enough for cooking, eating, and gear organization. The Black Diamond Moji and similar collapsible LED lanterns run $20 to $35 and are genuinely packable. We have also tested cheap rechargeable lanterns from Amazon; the quality is inconsistent, but models with decent reviews and a 300+ lumen rating are usually acceptable as a backup lantern.
 
 **String lights** on a 12V circuit are a surprisingly practical camp addition that most overlanders overlook. A 10-meter run of LED string lights drawing under 5W from your auxiliary battery illuminates an entire campsite at a cost that will not register on your battery monitor. We have run string lights off a simple 12V outlet and left them on all evening without noticeable impact on battery state. They also make a campsite significantly more functional when multiple people are working on different tasks at once.
 
@@ -87,7 +87,7 @@ Related reading: [Overland First Aid Kit: What to Carry and Why](/overland-first
 
 Lighting is a low draw by modern LED standards, but if you are running camp lights from your starter battery all night, you will eventually find a dead battery at 6 a.m. in a place where jumping your own rig is complicated. Power management is part of a complete lighting plan.
 
-**Battery-powered headlamps and lanterns** are the simplest answer. A fresh set of AAA batteries in a headlamp will run it through a multi-day trip. Keep a small ziplock of spare batteries with your lighting kit. We keep a single-serve bag with eight AAA and four AA cells as standard kit — it weighs almost nothing and has gotten us out of more jams than anything else in the camp kit.
+**Battery-powered headlamps and lanterns** are the simplest answer. A fresh set of AAA batteries in a headlamp will run it through a multi-day trip. Keep a small ziplock of spare batteries with your lighting kit. We keep a single-serve bag with eight AAA and four AA cells as standard kit; it weighs almost nothing and has gotten us out of more jams than anything else in the camp kit.
 
 **12V USB charging** handles rechargeable headlamps cleanly if you have an auxiliary battery or a power station. The Fenix HM55R and similar USB-C headlamps charge from the same outlets you use for phones and camera gear. If your rig has a dual battery setup, this is not a concern. If you are running a single-battery vehicle, plan your charging around engine-on time or a small solar top-off panel.
 
