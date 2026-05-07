@@ -38,7 +38,7 @@ The container is the foundation of your system. You have three main options at t
 
 **Collapsible water jugs** are cheap and pack flat when empty. They work fine for short trips but can develop small leaks along the seams after repeated use. Not recommended as your primary container for anything longer than a one-night trip.
 
-**Rigid jerry cans** are the overlander standard for good reason. They stack, they seal reliably, and they're easy to pour from. We've been using a pair of [Reliance Products Aqua-Tainer 7 Gallon containers](https://www.amazon.com/dp/B000FGDIAI) for three seasons without issue. At under $25 each, two of them give you 14 gallons of primary storage - more than enough for a long weekend for two people.
+**Rigid jerry cans** are the overlander standard for good reason. They stack, they seal reliably, and they're easy to pour from. We've been using a pair of [Reliance Products Aqua-Tainer 7 Gallon containers](https://www.amazon.com/dp/B000FGDIAI?tag=budgetoverlander-20) for three seasons without issue. At under $25 each, two of them give you 14 gallons of primary storage - more than enough for a long weekend for two people.
 
 **Military surplus water cans** are another option if you find them at surplus stores. They're heavy-duty and designed for rough handling, but original spigots can be hard to source and plastic can retain odors if not cleaned and aired out between trips.
 
@@ -54,9 +54,9 @@ If you're running a [DIY sleeping platform in your truck bed](/diy-overland-slee
 
 Even if you're carrying enough water from home to complete your trip, a filter is worth having. Water sources can fail - containers crack, group members use more than expected, and having a filter extends your operational range without adding meaningful weight or cost.
 
-The [Sawyer Squeeze Water Filtration System](https://www.amazon.com/dp/B00B1OSU4W) is the most versatile option under $40. It threads onto standard water bottle openings, works inline on a hydration bladder, and filters down to 0.1 micron, removing bacteria and protozoa without chemicals or battery power. We keep one clipped to our camp pack as standard kit on every trip.
+The [Sawyer Squeeze Water Filtration System](https://www.amazon.com/dp/B00B1OSU4W?tag=budgetoverlander-20) is the most versatile option under $40. It threads onto standard water bottle openings, works inline on a hydration bladder, and filters down to 0.1 micron, removing bacteria and protozoa without chemicals or battery power. We keep one clipped to our camp pack as standard kit on every trip.
 
-The [LifeStraw Personal Water Filter](https://www.amazon.com/dp/B006QF3TW4) is a solid backup under $20. It's a straw-style filter with no moving parts, a 1,000-gallon rated lifespan, and it's essentially indestructible. Less versatile than the Sawyer for camp cooking use (you drink directly from a water source through it), but ideal as an emergency backup every person in your group should have.
+The [LifeStraw Personal Water Filter](https://www.amazon.com/dp/B006QF3TW4?tag=budgetoverlander-20) is a solid backup under $20. It's a straw-style filter with no moving parts, a 1,000-gallon rated lifespan, and it's essentially indestructible. Less versatile than the Sawyer for camp cooking use (you drink directly from a water source through it), but ideal as an emergency backup every person in your group should have.
 
 For longer trips or group travel, a gravity filter lets you batch-filter a full pot of water while you're cooking - hands-free and scalable without much added cost. The Sawyer Gravity System uses the same filter element as the Squeeze and is worth looking at for group use.
 
@@ -88,9 +88,9 @@ Label your containers with the fill date and water source if you're mixing tap w
 
 These are the water system components we'd start with on a budget build:
 
-- [Reliance Products Aqua-Tainer 7 Gallon Water Container](https://www.amazon.com/dp/B000FGDIAI) - Reliable rigid storage, stackable, around $23 each. Two gives you 14 gallons of primary carry capacity.
-- [Sawyer Products SP131 Squeeze Water Filtration System](https://www.amazon.com/dp/B00B1OSU4W) - Versatile 0.1-micron filter, works inline or as a squeeze bottle. Under $35 and the most useful piece of water kit you can carry.
-- [LifeStraw Personal Water Filter](https://www.amazon.com/dp/B006QF3TW4) - Compact emergency backup, under $20. Worth having in every pack, every trip.
+- [Reliance Products Aqua-Tainer 7 Gallon Water Container](https://www.amazon.com/dp/B000FGDIAI?tag=budgetoverlander-20) - Reliable rigid storage, stackable, around $23 each. Two gives you 14 gallons of primary carry capacity.
+- [Sawyer Products SP131 Squeeze Water Filtration System](https://www.amazon.com/dp/B00B1OSU4W?tag=budgetoverlander-20) - Versatile 0.1-micron filter, works inline or as a squeeze bottle. Under $35 and the most useful piece of water kit you can carry.
+- [LifeStraw Personal Water Filter](https://www.amazon.com/dp/B006QF3TW4?tag=budgetoverlander-20) - Compact emergency backup, under $20. Worth having in every pack, every trip.
 
 *As an Amazon Associate we earn from qualifying purchases at no extra cost to you.*
 
