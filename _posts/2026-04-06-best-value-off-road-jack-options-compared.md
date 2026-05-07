@@ -49,7 +49,7 @@ That said, the hi-lift is not plug-and-play. You need solid attachment points on
 
 The other thing to know: hi-lift jacks are dangerous when used incorrectly. The locking mechanism requires you to hold load weight while switching directions, and a dropped or runaway jack has caused serious injuries. The correct technique involves keeping your body clear of the potential fall zone, maintaining control of the handle at all times, and never working under a vehicle supported only by a hi-lift.
 
-For the budget buyer, the [Hi-Lift Jack 48" Stealth Jack SE-485](https://www.amazon.com/dp/B0G3SMH41V) is a strong pick. The Stealth version has a cast iron climb (the main rail mechanism) rather than standard gray iron, which is more forgiving of rust and longer in service life. At 48 inches of lift height, it handles most truck and SUV lifts without running out of travel.
+For the budget buyer, the [Hi-Lift Jack 48" Stealth Jack SE-485](https://www.amazon.com/dp/B0G3SMH41V?tag=budgetoverlander-20) is a strong pick. The Stealth version has a cast iron climb (the main rail mechanism) rather than standard gray iron, which is more forgiving of rust and longer in service life. At 48 inches of lift height, it handles most truck and SUV lifts without running out of travel.
 
 **What to look for when buying a hi-lift:**
 - Minimum 48" lift height for lifted trucks; 36" works for stock or mildly lifted
@@ -61,13 +61,13 @@ Be wary of cheap no-name hi-lift clones on Amazon. Some have failed catastrophic
 
 ## Bottle Jacks and Hydraulic Options for Trail Use
 
-Bottle jacks are the other budget-friendly off-road option, and they're genuinely excellent in the right context. A 12-ton hydraulic bottle jack weighs under 10 lbs, costs $25-$40, and will lift more than almost any vehicle you're likely to drive. The [BIG RED Torin Hydraulic Bottle Jack, 12 Ton](https://www.amazon.com/dp/B000234ISU) is a well-reviewed example that hits the sweet spot of capacity, size, and price.
+Bottle jacks are the other budget-friendly off-road option, and they're genuinely excellent in the right context. A 12-ton hydraulic bottle jack weighs under 10 lbs, costs $25-$40, and will lift more than almost any vehicle you're likely to drive. The [BIG RED Torin Hydraulic Bottle Jack, 12 Ton](https://www.amazon.com/dp/B000234ISU?tag=budgetoverlander-20) is a well-reviewed example that hits the sweet spot of capacity, size, and price.
 
 The limitation is geometry. Bottle jacks need a flat, hard surface to sit on, and they need a flat, accessible frame or axle contact point directly above them. On soft ground, they sink. On uneven terrain, they tip. On heavily lifted trucks with 35"+ tires, the collapsed height of a standard bottle jack may not reach the frame without a riser block.
 
 For rock crawling in particular, a long-travel bottle jack (sometimes called a "trail jack" or "off-road bottle jack") with a saddle head is often the preferred tool. These are taller in collapsed position and specifically sized to reach the axle housing on lifted rigs.
 
-The [Torin BlackJack Hydraulic Floor Jack, 3 Ton](https://www.amazon.com/dp/B0875MRY23) is worth considering for overlanders who also use their vehicle as a daily driver and want a jack that works in both settings. The trade-off is weight (it's heavier) and packability (it doesn't store as neatly as a bottle jack). But for someone who wants one jack for everything, it covers more situations.
+The [Torin BlackJack Hydraulic Floor Jack, 3 Ton](https://www.amazon.com/dp/B0875MRY23?tag=budgetoverlander-20) is worth considering for overlanders who also use their vehicle as a daily driver and want a jack that works in both settings. The trade-off is weight (it's heavier) and packability (it doesn't store as neatly as a bottle jack). But for someone who wants one jack for everything, it covers more situations.
 
 **When a bottle jack makes more sense than a hi-lift:**
 - Your vehicle has solid, accessible frame contact points at the right height
