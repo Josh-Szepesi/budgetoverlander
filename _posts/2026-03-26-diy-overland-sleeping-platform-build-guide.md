@@ -70,13 +70,13 @@ Sand the cut edges smooth and seal them with polyurethane or exterior paint befo
 
 ## Step 3: Add a Sleeping Surface and Under-Platform Storage
 
-**Sleeping surface:** A bare plywood surface is functional but rough for a full night. Adding 3-4 inches of foam changes the picture completely. The [Zinus 4 Inch Green Tea Foam Mattress](https://www.amazon.com/dp/B00B7E7H1G) comes in a twin size (38x75 inches), which fits most full-size truck beds with minor trimming. It compresses for storage and holds up well to repeated rolling and folding.
+**Sleeping surface:** A bare plywood surface is functional but rough for a full night. Adding 3-4 inches of foam changes the picture completely. The [Zinus 4 Inch Green Tea Foam Mattress](https://www.amazon.com/dp/B00B7E7H1G?tag=budgetoverlander-20) comes in a twin size (38x75 inches), which fits most full-size truck beds with minor trimming. It compresses for storage and holds up well to repeated rolling and folding.
 
 If you want to keep the overall platform height manageable, a 2-inch foam topper works and can be rolled up when not in use.
 
 **Under-platform storage:** With a well-sized platform you can have 12-16 inches of clearance below the sleeping surface - enough for a 35L dry bag lying flat, a full tool roll, or two 5-gallon water jugs standing upright on the wheel well tops. Organize this space with cargo nets, action packers that slide in from the tailgate, or a built-in slide-out drawer.
 
-If you want to add a slide-out drawer later, [KingSlide 28-Inch Heavy Duty Drawer Slides](https://www.amazon.com/dp/B08NDPMHHQ) are rated for over 100 lbs per pair. In our experience with a similar setup on our second platform build, they held a full tool kit plus spare parts without any flex or binding. For securing gear on and under the platform, a set of [Rhino USA Ratchet Straps](https://www.amazon.com/dp/B01M6YTFHV) are worth having in the truck year-round - they come in handy for recovery, loading, and keeping gear from shifting on rough trails.
+If you want to add a slide-out drawer later, [KingSlide 28-Inch Heavy Duty Drawer Slides](https://www.amazon.com/dp/B08NDPMHHQ?tag=budgetoverlander-20) are rated for over 100 lbs per pair. In our experience with a similar setup on our second platform build, they held a full tool kit plus spare parts without any flex or binding. For securing gear on and under the platform, a set of [Rhino USA Ratchet Straps](https://www.amazon.com/dp/B01M6YTFHV?tag=budgetoverlander-20) are worth having in the truck year-round - they come in handy for recovery, loading, and keeping gear from shifting on rough trails.
 
 ## Step 4: Finish and Shake Down the Build
 
@@ -95,9 +95,9 @@ Once you have the sleep system locked in, the next logical upgrade is a [camp ki
 
 ## Recommended Products
 
-- [Zinus 4 Inch Green Tea Foam Mattress (Twin)](https://www.amazon.com/dp/B00B7E7H1G) - fits most truck bed platforms with minor trimming, compresses for transport
-- [KingSlide 28-Inch Heavy Duty Drawer Slides](https://www.amazon.com/dp/B08NDPMHHQ) - rated for 100+ lbs per pair, good for a slide-out drawer if you expand the build later
-- [Rhino USA Ratchet Straps](https://www.amazon.com/dp/B01M6YTFHV) - useful for securing gear on and under the platform and general trail use
+- [Zinus 4 Inch Green Tea Foam Mattress (Twin)](https://www.amazon.com/dp/B00B7E7H1G?tag=budgetoverlander-20) - fits most truck bed platforms with minor trimming, compresses for transport
+- [KingSlide 28-Inch Heavy Duty Drawer Slides](https://www.amazon.com/dp/B08NDPMHHQ?tag=budgetoverlander-20) - rated for 100+ lbs per pair, good for a slide-out drawer if you expand the build later
+- [Rhino USA Ratchet Straps](https://www.amazon.com/dp/B01M6YTFHV?tag=budgetoverlander-20) - useful for securing gear on and under the platform and general trail use
 
 *As an Amazon Associate we earn from qualifying purchases at no extra cost to you.*
 
