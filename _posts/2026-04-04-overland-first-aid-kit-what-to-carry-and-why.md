@@ -84,11 +84,11 @@ Inspect and restock after every multi-day trip. Medications expire, gloves get u
 
 If you want to start with a pre-built foundation and customize from there, a few options are worth your attention.
 
-The **[Adventure Medical Kits Adventure First Aid Medical Kit 2.0](https://www.amazon.com/dp/B002K66484)** is a well-organized compact kit with a solid core of wound care supplies. It is missing trauma items, but as a base layer for general trail injury management it is among the best organized pre-built kits we have tested. The labeling and compartment layout is genuinely useful in the field.
+The **[Adventure Medical Kits Adventure First Aid Medical Kit 2.0](https://www.amazon.com/dp/B002K66484?tag=budgetoverlander-20)** is a well-organized compact kit with a solid core of wound care supplies. It is missing trauma items, but as a base layer for general trail injury management it is among the best organized pre-built kits we have tested. The labeling and compartment layout is genuinely useful in the field.
 
-The **[VRIEXSD 400 Piece Large First Aid Kit](https://www.amazon.com/dp/B0BFN7K6ZZ)** gives you volume at a low price point. It has more redundancy on consumables (gauze, bandages, gloves) than most compact kits, which matters when you are treating multiple people or dealing with a heavily bleeding wound. It is not as well-organized as the AMK, but for a group kit that gets restocked regularly, it is hard to argue with the value.
+The **[VRIEXSD 400 Piece Large First Aid Kit](https://www.amazon.com/dp/B0BFN7K6ZZ?tag=budgetoverlander-20)** gives you volume at a low price point. It has more redundancy on consumables (gauze, bandages, gloves) than most compact kits, which matters when you are treating multiple people or dealing with a heavily bleeding wound. It is not as well-organized as the AMK, but for a group kit that gets restocked regularly, it is hard to argue with the value.
 
-The **[Outdoors First Aid Kit for 4x4 Off-Road Vehicles](https://www.amazon.com/dp/B0078V7XJ0)** is specifically designed for off-road use, with a water-resistant case and content selection that reflects trail-specific injuries. The case design alone is worth noting - it mounts cleanly in a vehicle interior and opens with one hand.
+The **[Outdoors First Aid Kit for 4x4 Off-Road Vehicles](https://www.amazon.com/dp/B0078V7XJ0?tag=budgetoverlander-20)** is specifically designed for off-road use, with a water-resistant case and content selection that reflects trail-specific injuries. The case design alone is worth noting - it mounts cleanly in a vehicle interior and opens with one hand.
 
 None of the pre-built options include trauma-tier items. Plan to add a tourniquet, hemostatic gauze, and chest seals regardless of which base kit you choose. Those are the items that bridge the gap between a trail aid kit and a kit that can handle a real emergency.
 
@@ -138,9 +138,9 @@ Bookmark this guide and check out our [overland recovery gear guide](/2026-03-11
 
 ### Recommended Products
 
-- [Outdoors First Aid Kit for 4x4 Off-Road Vehicles](https://www.amazon.com/dp/B0078V7XJ0)
-- [VRIEXSD 400 Piece Large First Aid Kit](https://www.amazon.com/dp/B0BFN7K6ZZ)
-- [Adventure Medical Kits Adventure First Aid Medical Kit 2.0](https://www.amazon.com/dp/B002K66484)
+- [Outdoors First Aid Kit for 4x4 Off-Road Vehicles](https://www.amazon.com/dp/B0078V7XJ0?tag=budgetoverlander-20)
+- [VRIEXSD 400 Piece Large First Aid Kit](https://www.amazon.com/dp/B0BFN7K6ZZ?tag=budgetoverlander-20)
+- [Adventure Medical Kits Adventure First Aid Medical Kit 2.0](https://www.amazon.com/dp/B002K66484?tag=budgetoverlander-20)
 
 ---
 
