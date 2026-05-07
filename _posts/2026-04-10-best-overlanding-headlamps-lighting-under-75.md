@@ -47,7 +47,7 @@ All three earn their place in an overland kit at different roles. The 2-pack cov
 
 ### LED Headlamp 2-Pack With Red Light Mode
 
-The [LED Headlamp 2-Pack](https://www.amazon.com/dp/B07QGRWZNB) lands under $25 for two headlamps, which makes it the obvious choice for outfitting a group or keeping a spare in the rig. We have used this style of budget headlamp as a vehicle-side emergency light for two seasons, and it holds up better than you would expect at the price point.
+The [LED Headlamp 2-Pack](https://www.amazon.com/dp/B07QGRWZNB?tag=budgetoverlander-20) lands under $25 for two headlamps, which makes it the obvious choice for outfitting a group or keeping a spare in the rig. We have used this style of budget headlamp as a vehicle-side emergency light for two seasons, and it holds up better than you would expect at the price point.
 
 The red light mode works properly, the elastic strap adjusts to fit over a beanie, and the AAA batteries are something you already carry. The downside is the high mode brightness steps down after a few minutes, which is normal for unregulated LED designs. For stationary camp use and quick work tasks, it is not a problem. For extended under-hood work, we pair it with a magnetic work light so the headlamp is not the only source.
 
@@ -55,7 +55,7 @@ For a dedicated backup headlamp and a budget primary, this is the best dollar-pe
 
 ### Black Diamond Spot 400
 
-The [Black Diamond Spot 400](https://www.amazon.com/dp/B0DK2QZYKG) is the headlamp we reach for most often on extended trips. At 400 lumens, it delivers enough output for real work tasks. The proximity mode dims automatically when you look down toward something close to you, which sounds gimmicky until you have been doing fuel system work for an hour and your pupils have adjusted. It actually matters.
+The [Black Diamond Spot 400](https://www.amazon.com/dp/B0DK2QZYKG?tag=budgetoverlander-20) is the headlamp we reach for most often on extended trips. At 400 lumens, it delivers enough output for real work tasks. The proximity mode dims automatically when you look down toward something close to you, which sounds gimmicky until you have been doing fuel system work for an hour and your pupils have adjusted. It actually matters.
 
 The Spot 400 runs on three AAA batteries or, with the right adapter, a rechargeable pack. The IPX8 waterproofing means you can use it in hard rain without worrying. The strap system is padded and stable enough to wear for multi-hour sessions without it migrating down your forehead.
 
@@ -63,7 +63,7 @@ In our experience with the Black Diamond Spot series over several years, the bui
 
 ### Fenix HM55R Rechargeable Headlamp
 
-The [Fenix HM55R](https://www.amazon.com/dp/B0FM4JXVCL) is the high-end of this guide's budget range, and it earns the premium with genuine output and a thoughtful design for hands-on work. At 1500 peak lumens, it is genuinely bright enough to illuminate a wide area around your rig, not just a single focused spot.
+The [Fenix HM55R](https://www.amazon.com/dp/B0FM4JXVCL?tag=budgetoverlander-20) is the high-end of this guide's budget range, and it earns the premium with genuine output and a thoughtful design for hands-on work. At 1500 peak lumens, it is genuinely bright enough to illuminate a wide area around your rig, not just a single focused spot.
 
 The dual-beam setup on the HM55R separates the flood and spot, so you can run wide area illumination for camp tasks or switch to throw light down a trail. The rechargeable battery charges via USB-C, which works with most portable power stations and 12V USB setups you likely already carry.
 
