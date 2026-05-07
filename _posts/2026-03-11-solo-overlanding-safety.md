@@ -85,9 +85,9 @@ Solo trips need reliable recovery gear more than group trips. See our [Overland 
 
 Here are a few products to help with what we covered in this guide:
 
-- **[Satellite Communicator Emergency](https://www.amazon.com/s?k=satellite+communicator+emergency+garmin)**
-- **[First Aid Kit Vehicle](https://www.amazon.com/s?k=first+aid+kit+vehicle+emergency)**
-- **[Recovery Strap Tow Rope](https://www.amazon.com/s?k=recovery+strap+tow+rope+4wd)**
+- **[Satellite Communicator Emergency](https://www.amazon.com/s?k=satellite+communicator+emergency+garmin&tag=budgetoverlander-20)**
+- **[First Aid Kit Vehicle](https://www.amazon.com/s?k=first+aid+kit+vehicle+emergency&tag=budgetoverlander-20)**
+- **[Recovery Strap Tow Rope](https://www.amazon.com/s?k=recovery+strap+tow+rope+4wd&tag=budgetoverlander-20)**
 
 
 <div class="author-bio">
