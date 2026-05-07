@@ -77,19 +77,19 @@ The portable category has a wide range of quality at similar price points. Here'
 
 The VIAIR 88P is the entry-level unit from one of the most respected names in overlanding compressors. It clips directly to your battery terminals, runs at 1.47 CFM, and handles tires up to 33 inches reliably. The 25% duty cycle means you'll take a break between tires, but for casual weekend wheelers it's a solid performer. VIAIR backs their products with consistent OEM relationships, and parts availability is strong.
 
-[VIAIR 88P Portable Air Compressor](https://www.amazon.com/dp/B005ASY23I)
+[VIAIR 88P Portable Air Compressor](https://www.amazon.com/dp/B005ASY23I?tag=budgetoverlander-20)
 
 ### VIAIR 400P
 
 Stepping up within the VIAIR lineup, the 400P runs at 2.30 CFM with a 33% duty cycle. It handles tires up to 35 inches and is rated for larger passenger tires and LT sizes. The automatic shutoff at a set PSI is a practical feature when you're airing up multiple tires and want to walk away. This is a better choice if you run tires larger than 33 inches or do more than occasional trail days.
 
-[VIAIR 400P Automatic Portable Compressor](https://www.amazon.com/dp/B000X9B32M)
+[VIAIR 400P Automatic Portable Compressor](https://www.amazon.com/dp/B000X9B32M?tag=budgetoverlander-20)
 
 ### SmittyBilt 2781
 
 The SmittyBilt 2781 is the outlier here, with a 5.65 CFM rating at a price point that undercuts comparable units significantly. It fills tires fast and includes a storage bag with basic accessories. The tradeoff is a shorter duty cycle and less robust construction than VIAIR products. In our experience with the SmittyBilt, it works well for the first year or two but doesn't hold up as well under hard regular use. For occasional use or a secondary vehicle, it's a good value.
 
-[SmittyBilt 2781 5.65 CFM Air Compressor](https://www.amazon.com/dp/B004K25GMG)
+[SmittyBilt 2781 5.65 CFM Air Compressor](https://www.amazon.com/dp/B004K25GMG?tag=budgetoverlander-20)
 
 ---
 
