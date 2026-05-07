@@ -71,7 +71,7 @@ The tire market has real differences at each price band. Here's what your money 
 
 For most budget overlanders, the $150 to $200 range delivers the best value. Tires in this band come from established manufacturers with real-world testing data, carry LT ratings in useful sizes, and have documented performance from overlanding communities online.
 
-The Forceum M/T 08 Plus is an example of a budget MT that lands under this ceiling in many sizes: [https://www.amazon.com/dp/B07KZWTJVB](https://www.amazon.com/dp/B07KZWTJVB). It's not a premium tire, but for overlanders who need some mud performance without paying Cooper or BFG prices, it's worth considering.
+The Forceum M/T 08 Plus is an example of a budget MT that lands under this ceiling in many sizes: [https://www.amazon.com/dp/B07KZWTJVB?tag=budgetoverlander-20](https://www.amazon.com/dp/B07KZWTJVB?tag=budgetoverlander-20). It's not a premium tire, but for overlanders who need some mud performance without paying Cooper or BFG prices, it's worth considering.
 
 We've tested both the sub-$100 import tier and the $150 to $200 mid-tier, and the difference in sidewall durability alone justifies the step up. Import tires in that lower range tend to show sidewall damage that mid-tier tires shrug off on the same terrain.
 
@@ -83,7 +83,7 @@ We've tested both the sub-$100 import tier and the $150 to $200 mid-tier, and th
 
 **Buying used off-road tires.** Used tires are tempting on a budget build, but with tires that see rock and trail use you can't evaluate internal damage from visual inspection. Sidewall separations and internal belt damage from impacts don't always show on the outside. This is one area where buying new (even lower-tier new) is better than saving money on used.
 
-**Overlooking tire repair gear.** A $200 tire sitting flat on a trail is worth nothing without the tools to get it rolling again. A quality plug kit like the [Boulder Tools Compact Tire Repair Kit](https://www.amazon.com/dp/B08SBFGMDB) and a bead sealant like [TireJect Off-Road Tire Sealant](https://www.amazon.com/dp/B07D5M1MXJ) should be part of every tire purchase decision. Budget the $30 to $50 for trail repair tools into your tire cost.
+**Overlooking tire repair gear.** A $200 tire sitting flat on a trail is worth nothing without the tools to get it rolling again. A quality plug kit like the [Boulder Tools Compact Tire Repair Kit](https://www.amazon.com/dp/B08SBFGMDB?tag=budgetoverlander-20) and a bead sealant like [TireJect Off-Road Tire Sealant](https://www.amazon.com/dp/B07D5M1MXJ?tag=budgetoverlander-20) should be part of every tire purchase decision. Budget the $30 to $50 for trail repair tools into your tire cost.
 
 **Not checking sizing compatibility before ordering.** Fitting a tire that's significantly larger than stock affects speedometer accuracy, fuel economy, handling, and potentially your brakes and drivetrain. Running a size more than 10 to 15 percent larger than stock without recalibration creates real problems. Verify fitment with your specific vehicle trim before ordering.
 
