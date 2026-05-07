@@ -33,11 +33,11 @@ The market for budget CB antennas is crowded, and plenty of cheap options perfor
 
 **Magnetic mount antennas** are the easiest entry point. They require zero drilling, attach to any flat steel surface, and can be moved between vehicles. The downside is that they depend on the vehicle's steel roof or hood for a ground plane, and vibration on rough trails can shift the magnet. For overlanding where you're moving off pavement, a permanent mount is more reliable, but a quality magnetic kit makes a solid starting point.
 
-The [RoadPro RP-711 24" Magnet Mount CB Antenna Kit](https://www.amazon.com/dp/B001P4ZJBA) is a widely used budget option. It includes the antenna, magnetic base, and a pre-terminated coax run, so it's a plug-and-play solution if you want to get on the air fast. We've used this style of antenna on short shakedown runs and found it holds position well on pavement, though we'd recommend a permanent mount for serious trail use.
+The [RoadPro RP-711 24" Magnet Mount CB Antenna Kit](https://www.amazon.com/dp/B001P4ZJBA?tag=budgetoverlander-20) is a widely used budget option. It includes the antenna, magnetic base, and a pre-terminated coax run, so it's a plug-and-play solution if you want to get on the air fast. We've used this style of antenna on short shakedown runs and found it holds position well on pavement, though we'd recommend a permanent mount for serious trail use.
 
-The [Nagoya CB-72 28" CB Antenna Kit](https://www.amazon.com/dp/B07Y8PNX7K) is another strong option at a similar price. It includes 18 feet of RG-58 coax pre-terminated with a PL-259 connector, which saves you from buying cable and connectors separately.
+The [Nagoya CB-72 28" CB Antenna Kit](https://www.amazon.com/dp/B07Y8PNX7K?tag=budgetoverlander-20) is another strong option at a similar price. It includes 18 feet of RG-58 coax pre-terminated with a PL-259 connector, which saves you from buying cable and connectors separately.
 
-For a mount that allows a permanent install or roof rack attachment, the [HYS Universal CB Antenna Mount](https://www.amazon.com/dp/B0CJ9CLVG7) includes adjustable U-bolt brackets and an SO-239 stud. It's a flexible option for mounting to tube bumpers, roof racks, or mirror brackets without requiring specialty hardware.
+For a mount that allows a permanent install or roof rack attachment, the [HYS Universal CB Antenna Mount](https://www.amazon.com/dp/B0CJ9CLVG7?tag=budgetoverlander-20) includes adjustable U-bolt brackets and an SO-239 stud. It's a flexible option for mounting to tube bumpers, roof racks, or mirror brackets without requiring specialty hardware.
 
 When comparing antennas at this price range, focus on three things: whether coax is included (saves a parts run), the base connector type (most budget radios use PL-259), and the stated frequency range (should cover 26-28 MHz).
 
