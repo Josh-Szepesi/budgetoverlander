@@ -65,9 +65,9 @@ Here's how three common bolt-on options compare for budget overlanders:
 
 | Product | Application | Material | Approx. Price | Coverage |
 |---|---|---|---|---|
-| [DV8 Offroad Front Differential Skid Plate](https://www.amazon.com/dp/B08BZX661L) | Jeep Wrangler JL / Gladiator | 3/16" steel | ~$150 | Front diff housing, bottom and face |
-| [Rugged Ridge Dana 44 Differential Skid Plate](https://www.amazon.com/dp/B001FAGL84) | Dana 44 applications | 3/16" plate | ~$80 | Bottom of housing |
-| [Rough Country Rear Dana 44 Skid Plate](https://www.amazon.com/dp/B00EV7DCRQ) | Jeep Wrangler JK rear | Steel | ~$60 | Rear diff housing bottom |
+| [DV8 Offroad Front Differential Skid Plate](https://www.amazon.com/dp/B08BZX661L?tag=budgetoverlander-20) | Jeep Wrangler JL / Gladiator | 3/16" steel | ~$150 | Front diff housing, bottom and face |
+| [Rugged Ridge Dana 44 Differential Skid Plate](https://www.amazon.com/dp/B001FAGL84?tag=budgetoverlander-20) | Dana 44 applications | 3/16" plate | ~$80 | Bottom of housing |
+| [Rough Country Rear Dana 44 Skid Plate](https://www.amazon.com/dp/B00EV7DCRQ?tag=budgetoverlander-20) | Jeep Wrangler JK rear | Steel | ~$60 | Rear diff housing bottom |
 
 A few notes on these options: The DV8 plate is a formed piece that wraps more of the housing face, which is the more likely strike point than the bottom on rocky climbs. The Rugged Ridge plate is simpler but covers the most common impact zone. The Rough Country option is affordable rear protection that represents a good starting point for any JK build that sees rocks.
 
