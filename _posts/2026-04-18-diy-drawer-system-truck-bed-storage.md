@@ -19,7 +19,7 @@ This guide covers the full build: materials selection, slide hardware, step-by-s
 
 ## Why Build a DIY Truck Bed Drawer System Instead of Buying One
 
-The math on commercial systems is rough. A [BedSlide 1000 Classic](https://www.amazon.com/dp/B07H3R7ZTF) runs well over $600 and gives you a single sliding platform, not actual drawers. Full-width dual-drawer kits from ARB, Decked, or similar brands start around $1,000 and top out above $1,500 for larger bed sizes.
+The math on commercial systems is rough. A [BedSlide 1000 Classic](https://www.amazon.com/dp/B07H3R7ZTF?tag=budgetoverlander-20) runs well over $600 and gives you a single sliding platform, not actual drawers. Full-width dual-drawer kits from ARB, Decked, or similar brands start around $1,000 and top out above $1,500 for larger bed sizes.
 
 DIY costs depend on how much material you already have on hand, but a realistic budget for a full-width, two-drawer system breaks down like this:
 
@@ -52,7 +52,7 @@ Heavy-duty drawer slides rated for at least 100 lb per pair are non-negotiable. 
 
 Fasteners matter more than most people realize. Pocket screws work well for box joints. Use 1/4-20 carriage bolts with fender washers to anchor the main platform to the truck bed -- never rely on wood screws alone for the tie-down points.
 
-For a non-DIY comparison: the [DuHa CargoStop Truck Bed Divider](https://www.amazon.com/dp/B0F7Z9NP99) is a $60 to $80 option that creates separated cargo zones without a full drawer system. It works if your main problem is lateral sliding during turns and you do not need lockable storage. It is not a drawer system, but it is a quick, tool-free fix for basic organization.
+For a non-DIY comparison: the [DuHa CargoStop Truck Bed Divider](https://www.amazon.com/dp/B0F7Z9NP99?tag=budgetoverlander-20) is a $60 to $80 option that creates separated cargo zones without a full drawer system. It works if your main problem is lateral sliding during turns and you do not need lockable storage. It is not a drawer system, but it is a quick, tool-free fix for basic organization.
 
 ## How to Build a Truck Bed Drawer System: Step-by-Step
 
@@ -96,7 +96,7 @@ Look for these specs when buying:
 
 **Ball bearing vs. roller:** Ball-bearing slides cost a bit more but handle vibration, lateral loads, and dirty conditions far better. For a truck application, they are worth the premium.
 
-The [OLY-PRO Truck Bed Tool Box](https://www.amazon.com/dp/B08CZ5F9BC) is one of the more affordable prebuilt options with integrated drawer hardware -- useful if you want to compare your build cost to what a ready-made unit looks like around the $150 to $200 range.
+The [OLY-PRO Truck Bed Tool Box](https://www.amazon.com/dp/B08CZ5F9BC?tag=budgetoverlander-20) is one of the more affordable prebuilt options with integrated drawer hardware -- useful if you want to compare your build cost to what a ready-made unit looks like around the $150 to $200 range.
 
 For strictly hardware, 18 in. heavy-duty full-extension slides are available at most hardware stores for $20 to $30 per pair. Buy one extra pair if budget allows -- having a spare on the trail is worth it.
 
