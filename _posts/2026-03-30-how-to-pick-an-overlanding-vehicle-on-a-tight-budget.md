@@ -54,7 +54,7 @@ The 1st gen Tacoma is still considered one of the strongest small trucks ever bu
 
 A clean Craigslist listing can hide a lot. When we went through our own rig purchase, we found a truck that looked great in photos but had two fault codes and a leaking rear diff seal on inspection. We walked away. The next one was cleaner mechanically and cost $400 less.
 
-Bring an [ANCEL AD310 OBD2 Scanner](https://www.amazon.com/dp/B01G5EA74I) to every used 4x4 inspection. Plug it into the OBD port (under the dash, driver's side) before the seller clears codes. A clean scan doesn't guarantee a healthy engine, but active codes tell you immediately what's wrong without having to take the seller's word for it.
+Bring an [ANCEL AD310 OBD2 Scanner](https://www.amazon.com/dp/B01G5EA74I?tag=budgetoverlander-20) to every used 4x4 inspection. Plug it into the OBD port (under the dash, driver's side) before the seller clears codes. A clean scan doesn't guarantee a healthy engine, but active codes tell you immediately what's wrong without having to take the seller's word for it.
 
 ### Undercarriage Checklist
 
@@ -119,9 +119,9 @@ Some 4x4s look appealing on paper but create budget headaches:
 
 Once you've found your rig, a few items should be in the truck before any trail run. These are the minimums we'd want on any vehicle heading off-pavement for the first time.
 
-- **[ANCEL AD310 OBD2 Scanner](https://www.amazon.com/dp/B01G5EA74I)** - Runs about $25. Worth keeping in the glovebox permanently so you can read and clear codes on the trail without visiting a parts store.
-- **[Stanley 30-Amp Jumper Cables](https://www.amazon.com/dp/B07DGMJRWM)** - Heavy-gauge cables with a long enough reach to work from awkward angles on the trail. An older or marginal battery in a used rig is common, and these take 10 minutes to earn their keep.
-- **[AUDEW Portable Air Compressor](https://www.amazon.com/dp/B07FCMKK5X)** - Airing down for trail traction and airing back up for highway is one of the highest-impact things you can do for free. A portable 12V compressor makes it practical.
+- **[ANCEL AD310 OBD2 Scanner](https://www.amazon.com/dp/B01G5EA74I?tag=budgetoverlander-20)** - Runs about $25. Worth keeping in the glovebox permanently so you can read and clear codes on the trail without visiting a parts store.
+- **[Stanley 30-Amp Jumper Cables](https://www.amazon.com/dp/B07DGMJRWM?tag=budgetoverlander-20)** - Heavy-gauge cables with a long enough reach to work from awkward angles on the trail. An older or marginal battery in a used rig is common, and these take 10 minutes to earn their keep.
+- **[AUDEW Portable Air Compressor](https://www.amazon.com/dp/B07FCMKK5X?tag=budgetoverlander-20)** - Airing down for trail traction and airing back up for highway is one of the highest-impact things you can do for free. A portable 12V compressor makes it practical.
 
 *As an Amazon Associate we earn from qualifying purchases at no extra cost to you.*
 
