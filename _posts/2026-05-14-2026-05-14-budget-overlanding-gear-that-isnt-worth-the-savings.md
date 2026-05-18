@@ -95,7 +95,4 @@ Bookmark this guide for your next build phase and leave a comment below with you
 - [2026 05 07 Vehicle Maintenance On The Trail Tools And Spares](/2026-05-07-2026-05-07-vehicle-maintenance-on-the-trail-tools-and-spares)
 - [2026 05 02 Budget Fridge Vs Cooler Which Is Worth It For Over](/2026-05-02-2026-05-02-budget-fridge-vs-cooler-which-is-worth-it-for-over)
 
-<div class="author-bio">
-  <p><strong>About the Author</strong></p>
-  <p>The Budget Overlander team covers trail-ready vehicle builds that don't require a second mortgage. Our guides come from real builds, real trails, and real budgets - not catalog wishlists.</p>
-</div>
+<div class="author-bio"><p><strong>About the Author</strong></p><p>The Budget Overlander team researches trail-ready vehicle builds with an eye on cost and practicality. Our guides draw from forum-documented builds, manufacturer specs, and owner reviews - so you know what to expect before you buy.</p></div>
