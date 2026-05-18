@@ -95,7 +95,4 @@ Bookmark this guide for your next packing session and share your route planning 
 - [2026 04 30 Trail Route Planning Apps Maps And Trip Research](/2026-04-30-2026-04-30-trail-route-planning-apps-maps-and-trip-research)
 - [2026 05 07 Vehicle Maintenance On The Trail Tools And Spares](/2026-05-07-2026-05-07-vehicle-maintenance-on-the-trail-tools-and-spares)
 
-<div class="author-bio">
-  <p><strong>About the Author</strong></p>
-  <p>The Budget Overlander team covers trail-ready vehicle builds that don't require a second mortgage. Our guides come from real builds, real trails, and real budgets - not catalog wishlists.</p>
-</div>
+<div class="author-bio"><p><strong>About the Author</strong></p><p>The Budget Overlander team researches trail-ready vehicle builds with an eye on cost and practicality. Our guides draw from forum-documented builds, manufacturer specs, and owner reviews - so you know what to expect before you buy.</p></div>
