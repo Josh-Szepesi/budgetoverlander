@@ -31,7 +31,7 @@ Tire damage is the most frequent issue you will encounter. Sharp rocks, stray na
 
 Plugging a tire is often faster and safer than trying to change a wheel on an unstable, off-camber trail. If you have a puncture in the tread, you can often pull the nail, ream the hole, and insert a plug without even removing the wheel from the vehicle. This keeps you out from under a jacked-up rig, which is always a safety win. However, remember that plugs are for the tread only. If you have a sidewall tear, the tire is structurally compromised and must be replaced with your spare immediately.
 
-To make these repairs work, you must have a way to reinflate the tire. Relying on a tiny emergency pump meant for a sedan will result in a burned-out motor before you hit 20 PSI. You need a dedicated high-volume compressor. For more on this, check out our [Budget Overland Air Compressor Guide](/2026-04-12-budget-overland-air-compressor-guide/). Having the ability to air down for traction and air back up for the highway is the single best way to prevent tire damage in the first place, as a lower-pressure tire can wrap around sharp objects rather than being punctured by them.
+To make these repairs work, you must have a way to reinflate the tire. Relying on a tiny emergency pump meant for a sedan will result in a burned-out motor before you hit 20 PSI. You need a dedicated high-volume compressor. For more on this, check out our [Budget Overland Air Compressor Guide](/2026/04/12/budget-overland-air-compressor-guide//). Having the ability to air down for traction and air back up for the highway is the single best way to prevent tire damage in the first place, as a lower-pressure tire can wrap around sharp objects rather than being punctured by them.
 
 ## Electrical Systems and Jump Starting Essentials
 
@@ -47,7 +47,7 @@ Fluid loss is the silent killer of engines and drivetrains. You should carry at 
 
 For the actual repair of leaks, you need two things: JB Weld (specifically the "SteelStik" putty) and a tube of RTV silicone. If you punch a small hole in an oil pan or a fuel tank, the SteelStik can be kneaded and pressed into the hole, even if it is slightly oily. It hardens like steel in minutes and can get you back to the trailhead. RTV silicone is essential if you have to pull a component apart, like a differential cover or a thermostat housing, and need to create a new gasket on the fly.
 
-Don't forget the importance of cleaning the surface before applying these adhesives. A small can of brake cleaner or a few alcohol pads take up almost no space but ensure that your patch actually sticks to the metal. If you are worried about your undercarriage, you should look into [Budget Axle Differential Protection](/2026-04-16-budget-axle-differential-protection/) to prevent these leaks from happening in the first place. Prevention is always cheaper and easier than a field repair involving epoxy and prayers.
+Don't forget the importance of cleaning the surface before applying these adhesives. A small can of brake cleaner or a few alcohol pads take up almost no space but ensure that your patch actually sticks to the metal. If you are worried about your undercarriage, you should look into [Budget Axle Differential Protection](/2026/04/16/budget-axle-differential-protection//) to prevent these leaks from happening in the first place. Prevention is always cheaper and easier than a field repair involving epoxy and prayers.
 
 ## Trailside Repair Priority and Common Mistakes
 
@@ -87,8 +87,8 @@ Vehicle maintenance on the trail is an essential skill that separates the touris
 Join our community by bookmarking this site for more budget-friendly overlanding tips and gear reviews.
 
 ### Related Reading
-- [Budget Axle Differential Protection](/2026-04-16-budget-axle-differential-protection/)
-- [Budget Overland Air Compressor Guide](/2026-04-12-budget-overland-air-compressor-guide/)
+- [Budget Axle Differential Protection](/2026/04/16/budget-axle-differential-protection//)
+- [Budget Overland Air Compressor Guide](/2026/04/12/budget-overland-air-compressor-guide//)
 
 <div class="author-bio">
   <p><strong>About the Author</strong></p>
