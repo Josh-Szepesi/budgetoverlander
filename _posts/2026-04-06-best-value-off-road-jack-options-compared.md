@@ -24,7 +24,7 @@ Stock jacks are also typically rated for the kerb weight of the vehicle in ideal
 
 There's also the issue of attachment points. Many off-road vehicles, especially older trucks and lifted rigs, don't have frame contact points that are easily accessible with a standard scissor or pantograph jack. The hi-lift jack's rail slot changes this entirely.
 
-The bottom line: budget $50-$150 for a dedicated trail jack before your first multi-day trip. It's one of the cheapest pieces of insurance you can carry, and unlike most gear it pulls double duty as a winch, spreader, and clamp in the right configuration. If you haven't already nailed down your full recovery kit, start with our [overland recovery gear guide](/2026-03-11-overland-recovery-gear) before going deep on jacks specifically.
+The bottom line: budget $50-$150 for a dedicated trail jack before your first multi-day trip. It's one of the cheapest pieces of insurance you can carry, and unlike most gear it pulls double duty as a winch, spreader, and clamp in the right configuration. If you haven't already nailed down your full recovery kit, start with our [overland recovery gear guide](/2026/03/11/overland-recovery-gear/) before going deep on jacks specifically.
 
 ## The Main Types of Off-Road Jacks Compared
 
@@ -149,7 +149,7 @@ What you carry matters, but how you use it matters more. A quality jack with pro
 
 **Bookmark this guide for your next build planning session, or share it with someone who's just starting out.**
 
-Related reading: [Overland Recovery Gear: What to Carry and Why](/2026-03-11-overland-recovery-gear) | [Overland First Aid Kit: What to Carry and Why](/2026-04-04-overland-first-aid-kit-what-to-carry-and-why)
+Related reading: [Overland Recovery Gear: What to Carry and Why](/2026/03/11/overland-recovery-gear/) | [Overland First Aid Kit: What to Carry and Why](/2026/04/04/overland-first-aid-kit-what-to-carry-and-why/)
 
 ---
 
