@@ -14,11 +14,11 @@ Nothing ruins a multi-day trail run faster than waking up to soaked sleeping bag
 ![A tent pitched under overcast skies in a rugged outdoor setting](/assets/images/2026-03-22-how-to-waterproof-your-gear-for-overland-camping.jpg)
 <p class="image-credit">Photo by <a href="https://unsplash.com/@worldsbetweenlines?utm_source=artlines_blog&utm_medium=referral">Patrick Hendry</a> on <a href="https://unsplash.com/?utm_source=artlines_blog&utm_medium=referral">Unsplash</a></p>
 
-> **Safety note:** If your waterproofing plans involve electrical components - like sealing a dual-battery system enclosure or protecting CB radio wiring - work with the vehicle powered off and battery disconnected. Water intrusion into electrical systems is a fire risk. See our guide on [budget dual-battery setups](/2026-03-16-budget-dual-battery-setup-for-overlanding) for more on protecting your electrical gear.
+> **Safety note:** If your waterproofing plans involve electrical components - like sealing a dual-battery system enclosure or protecting CB radio wiring - work with the vehicle powered off and battery disconnected. Water intrusion into electrical systems is a fire risk. See our guide on [budget dual-battery setups](/2026/03/16/budget-dual-battery-setup-for-overlanding/) for more on protecting your electrical gear.
 
 ## Why Waterproofing Matters More on a Budget Build
 
-When you're running a $2,000 overland setup as described in our [budget overlanding truck build guide](/2026-03-11-budget-overland-build-under-2000), your gear tends to be stowed in exposed areas - truck beds, open roof racks, soft-sided storage bags. You don't have the luxury of a fully enclosed storage box or a premium RTT with integrated condensation management. That means water management has to be intentional.
+When you're running a $2,000 overland setup as described in our [budget overlanding truck build guide](/2026/03/11/budget-overland-build-under-2000/), your gear tends to be stowed in exposed areas - truck beds, open roof racks, soft-sided storage bags. You don't have the luxury of a fully enclosed storage box or a premium RTT with integrated condensation management. That means water management has to be intentional.
 
 In our experience with budget builds, the most common water failures are: sleeping bags absorbing moisture through a thin tent floor, electronics getting soaked in an unsecured cab bag, and food stores getting damp from condensation in cooler-adjacent storage. All three are preventable.
 
@@ -36,7 +36,7 @@ For a deeper look at how waterproofing technology works, the [Wikipedia article 
 
 ## Layer 1 - Your Rain Suit
 
-The first line of defense is a good rain suit. You will be setting up camp in the rain, digging out the recovery kit in a downpour, and refilling water jugs in storms. Wet clothes in cold temps are a hypothermia risk, especially for solo travelers. Check our [solo overlanding safety guide](/2026-03-11-solo-overlanding-safety) for more on managing environmental hazards on your own.
+The first line of defense is a good rain suit. You will be setting up camp in the rain, digging out the recovery kit in a downpour, and refilling water jugs in storms. Wet clothes in cold temps are a hypothermia risk, especially for solo travelers. Check our [solo overlanding safety guide](/2026/03/11/solo-overlanding-safety/) for more on managing environmental hazards on your own.
 
 We've used the Frogg Toggs All Sport Rain Suit across several wet weekend trips and it holds up well for the price. It's lightweight, packs down small, and fits over layered clothing without restricting movement. It won't last a decade of daily use, but for occasional trail deployments it's more than adequate.
 
@@ -99,7 +99,7 @@ Not everything needs waterproofing treatment. Cast iron cookware, recovery strap
 
 ---
 
-Bookmark this guide and check out our [overland recovery gear roundup](/2026-03-11-overland-recovery-gear) next - dry gear won't matter much if you can't get unstuck.
+Bookmark this guide and check out our [overland recovery gear roundup](/2026/03/11/overland-recovery-gear/) next - dry gear won't matter much if you can't get unstuck.
 
 <div class="author-bio">
   <p><strong>About the Author</strong></p>
