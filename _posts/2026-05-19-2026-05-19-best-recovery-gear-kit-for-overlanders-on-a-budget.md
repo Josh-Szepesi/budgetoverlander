@@ -17,7 +17,7 @@ Overlanding is an exercise in self-reliance, but that reliance is only as strong
 
 When building your first kit, focus on the items that facilitate a "buddy recovery" or a simple self-extraction. The foundation of any budget kit is a high-quality snatch strap. Unlike a static tow strap, a snatch strap is designed to stretch, using kinetic energy to "boing" a stuck vehicle out of a rut. You should look for a strap with a Minimum Breaking Strength (MBS) that is roughly three times the Gross Vehicle Weight (GVW) of your rig. For most mid-sized SUVs and trucks, a 20,000 to 30,000 pound rated strap is the sweet spot.
 
-Beyond the strap, you need a way to connect it to the vehicles. This is where shackles come in. Standard 3/4 inch bow shackles are the industry standard for a reason: they are cheap, incredibly strong, and virtually indestructible if used correctly. You'll need at least two, though four is better for complex rigging. If you are mounting these to a [budget overland bumper](/2026-05-05-2026-05-05-how-to-build-a-budget-overland-bumper), ensure your recovery points are through-welded to the frame. A shackle is only as strong as the metal it is pinned to.
+Beyond the strap, you need a way to connect it to the vehicles. This is where shackles come in. Standard 3/4 inch bow shackles are the industry standard for a reason: they are cheap, incredibly strong, and virtually indestructible if used correctly. You'll need at least two, though four is better for complex rigging. If you are mounting these to a [budget overland bumper](/2026/05/05/2026-05-05-how-to-build-a-budget-overland-bumper/), ensure your recovery points are through-welded to the frame. A shackle is only as strong as the metal it is pinned to.
 
 A tree trunk protector is the third essential. This is a short, non-stretch polyester strap designed to wrap around a tree without girdling the bark or damaging the tree's health. Using a kinetic strap or a winch cable directly around a tree is a fast way to get banned from [public lands](https://treadlightly.org/) and destroy your gear. In a budget kit, the tree protector often doubles as a static extension or a bridle for equalizing loads between two recovery points. By choosing multi-purpose gear, you reduce the total number of items you need to carry, saving both money and space in your vehicle.
 
@@ -94,8 +94,8 @@ Building the best recovery gear kit for overlanders on a budget is about making 
 Bookmark this guide for your next gear-buying session and share it with your trail buddies to ensure everyone is prepared for the next mud hole.
 
 **Related reading:**
-- [How To Build A Budget Overland Bumper](/2026-05-05-2026-05-05-how-to-build-a-budget-overland-bumper)
-- [Vehicle Maintenance On The Trail Tools And Spares](/2026-05-07-2026-05-07-vehicle-maintenance-on-the-trail-tools-and-spares)
+- [How To Build A Budget Overland Bumper](/2026/05/05/2026-05-05-how-to-build-a-budget-overland-bumper/)
+- [Vehicle Maintenance On The Trail Tools And Spares](/2026/05/07/2026-05-07-vehicle-maintenance-on-the-trail-tools-and-spares/)
 
 <div class="author-bio">
   <p><strong>About the Author</strong></p>
