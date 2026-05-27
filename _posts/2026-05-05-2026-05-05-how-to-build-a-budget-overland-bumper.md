@@ -19,7 +19,7 @@ The biggest variable in your budget will be the cost of steel. While buying bran
 
 When you go to the steel yard, look for 4x8 or 4x4 sheets of 3/16-inch mild steel. You will also need a length of 1/4-inch or 3/8-inch steel specifically for the winch plate and the frame mounting brackets. These are the high-stress areas where the thickness actually matters. If you are building a tube-style bumper instead of a plate bumper, you will want 1.75-inch or 2-inch DOM (Drawn Over Mandrel) tubing with a .120 wall thickness. Avoid HREW (Hot Rolled Electric Welded) tubing for primary structural components; it is cheaper but lacks the structural consistency of DOM when it comes to hard impacts or recovery stresses.
 
-Expect to spend between $200 and $400 on steel and consumables like welding wire, shielding gas, and grinding discs. To keep costs low, plan your cuts on a sheet of cardboard first to minimize waste. Every square inch of steel you buy should have a purpose. If you have leftovers, they can be used for projects like [Budget Axle Differential Protection](/2026-04-16-budget-axle-differential-protection/) later on. By sourcing locally and sticking to 3/16-inch plate for the bulk of the build, you keep the weight down and the bank account full.
+Expect to spend between $200 and $400 on steel and consumables like welding wire, shielding gas, and grinding discs. To keep costs low, plan your cuts on a sheet of cardboard first to minimize waste. Every square inch of steel you buy should have a purpose. If you have leftovers, they can be used for projects like [Budget Axle Differential Protection](/2026/04/16/budget-axle-differential-protection//) later on. By sourcing locally and sticking to 3/16-inch plate for the bulk of the build, you keep the weight down and the bank account full.
 
 ## Essential Tools for the DIY Fabricator
 
@@ -93,8 +93,8 @@ Building a budget overland bumper is a challenging but rewarding project that tr
 Bookmark this guide for your next shop weekend and get to work on those cardboard templates.
 
 ### Related reading
-- [Best Value Off Road Jack Options Compared](/2026-04-06-best-value-off-road-jack-options-compared/)
-- [Budget Overland Air Compressor Guide](/2026-04-12-budget-overland-air-compressor-guide/)
+- [Best Value Off Road Jack Options Compared](/2026/04/06/best-value-off-road-jack-options-compared//)
+- [Budget Overland Air Compressor Guide](/2026/04/12/budget-overland-air-compressor-guide//)
 
 <div class="author-bio">
   <p><strong>About the Author</strong></p>
