@@ -15,7 +15,7 @@ This guide walks through everything from picking the right antenna and mount typ
 
 <p class="image-credit">Photo by <a href="https://unsplash.com/@bradleycdunn?utm_source=artlines_blog&utm_medium=referral">Bradley Dunn</a> on <a href="https://unsplash.com/?utm_source=artlines_blog&utm_medium=referral">Unsplash</a></p>
 
-If you haven't picked out your radio yet, check out our guide to [Best Budget CB Radio and Communication Gear for Overlanding](/2026-04-02-best-budget-cb-radio-communication-gear-overlanding) first to make sure your antenna matches your setup.
+If you haven't picked out your radio yet, check out our guide to [Best Budget CB Radio and Communication Gear for Overlanding](/2026/04/02/best-budget-cb-radio-communication-gear-overlanding/) first to make sure your antenna matches your setup.
 
 ## Understanding CB Antenna Basics Before You Buy
 
@@ -159,7 +159,7 @@ Yes. Every doubling of antenna height roughly doubles the line-of-sight distance
 
 If you've already got a radio and you're reading this before your first trip, the CB antenna install is the last piece. Follow the grounding and SWR tuning steps above even if they feel like extra work. The 20 minutes spent tuning is worth more than another piece of gear.
 
-For more on building out your overland communication kit, see our related reading: [Best Budget CB Radio and Communication Gear for Overlanding](/2026-04-02-best-budget-cb-radio-communication-gear-overlanding).
+For more on building out your overland communication kit, see our related reading: [Best Budget CB Radio and Communication Gear for Overlanding](/2026/04/02/best-budget-cb-radio-communication-gear-overlanding/).
 
 Bookmark this page for reference when you're in the driveway with the meter in hand. And if you've done a CB antenna install on a specific vehicle (especially anything with aluminum body panels), drop a comment. Those installs have their own quirks worth sharing.
 
