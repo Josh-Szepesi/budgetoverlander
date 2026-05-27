@@ -27,7 +27,7 @@ Reading a topographic map is about more than just elevation; it is about visuali
 
 Valleys and ridges are identified by the "V" or "U" shapes formed by contour lines. A helpful rule of thumb is the "Rule of Vs." When contour lines form a V-shape that points toward higher elevation, you are looking at a valley or a drainage. Water flows down these paths, so these are the areas where you are most likely to encounter mud, creek crossings, or washouts. Conversely, if the V-shape points toward lower elevation, it represents a ridge. Ridges are generally drier and offer better views, but they can be exposed to high winds and lightning.
 
-A saddle is a low point between two higher peaks. On a map, this looks like an hourglass shape where the contour lines from two different hills nearly meet but then pull away. Saddles are often the most logical places for trails to cross from one side of a mountain range to another. When you are performing [trail route planning apps maps and trip research](/2026-04-30-2026-04-30-trail-route-planning-apps-maps-and-trip-research), identifying these saddles allows you to find the path of least resistance through rugged territory. Planning your route through saddles rather than over peaks saves wear on your vehicle and reduces the risk of overheating your transmission on long, sustained climbs.
+A saddle is a low point between two higher peaks. On a map, this looks like an hourglass shape where the contour lines from two different hills nearly meet but then pull away. Saddles are often the most logical places for trails to cross from one side of a mountain range to another. When you are performing [trail route planning apps maps and trip research](/2026/04/30/2026-04-30-trail-route-planning-apps-maps-and-trip-research/), identifying these saddles allows you to find the path of least resistance through rugged territory. Planning your route through saddles rather than over peaks saves wear on your vehicle and reduces the risk of overheating your transmission on long, sustained climbs.
 
 ## The role of map scales and grids
 
@@ -61,7 +61,7 @@ Finally, always carry a dedicated map measuring tool or a simple piece of non-st
 
 Even experienced navigators make errors when they are tired, hungry, or rushing to reach a campsite before dark. The most common mistake is failing to orient the map to the terrain. If you hold the map so the text is right-side up but you are facing south, the features on the map will be the opposite of what you see through the windshield. Always use your compass to orient the top of the map to true north before you begin interpreting the landscape.
 
-Another frequent problem is the "scale confusion" error. This happens when a driver switches between maps of different scales, such as moving from a statewide atlas to a 7.5 minute USGS quadrangle. The same one inch distance represents vastly different realities on these maps. If you do not consciously check the scale bar every time you open a new sheet, you will grossly miscalculate your travel time and fuel requirements. This is especially dangerous in [winter overlanding cold weather camping prep on a](/2026-04-28-2026-04-28-winter-overlanding-cold-weather-camping-prep-on-a) budget, where running out of fuel means losing your primary heat source.
+Another frequent problem is the "scale confusion" error. This happens when a driver switches between maps of different scales, such as moving from a statewide atlas to a 7.5 minute USGS quadrangle. The same one inch distance represents vastly different realities on these maps. If you do not consciously check the scale bar every time you open a new sheet, you will grossly miscalculate your travel time and fuel requirements. This is especially dangerous in [winter overlanding cold weather camping prep on a](/2026/04/28/2026-04-28-winter-overlanding-cold-weather-camping-prep-on-a/) budget, where running out of fuel means losing your primary heat source.
 
 Safety is paramount when working with vehicles and navigation. Always ensure your vehicle is equipped with a working carbon monoxide detector if you plan on idling for heat or using a fuel-powered heater in your cabin. If you find yourself truly lost, the standard survival advice is to stop moving. Attempting to "find the trail" often leads people further into the wilderness. If you cannot definitively locate your position on the map, stay with your vehicle. It is much easier for search and rescue teams to find a truck than a person wandering through a canyon.
 
@@ -85,8 +85,8 @@ Mastering topographic map reading is a fundamental skill that elevates you from 
 Bookmark this guide so you can reference the landform identification rules during your next trail planning session.
 
 ### Related reading
-- [2026 04 30 Trail Route Planning Apps Maps And Trip Research](/2026-04-30-2026-04-30-trail-route-planning-apps-maps-and-trip-research)
-- [2026 05 07 Vehicle Maintenance On The Trail Tools And Spares](/2026-05-07-2026-05-07-vehicle-maintenance-on-the-trail-tools-and-spares)
+- [2026 04 30 Trail Route Planning Apps Maps And Trip Research](/2026/04/30/2026-04-30-trail-route-planning-apps-maps-and-trip-research/)
+- [2026 05 07 Vehicle Maintenance On The Trail Tools And Spares](/2026/05/07/2026-05-07-vehicle-maintenance-on-the-trail-tools-and-spares/)
 
 <div class="author-bio">
   <p><strong>About the Author</strong></p>
