@@ -53,7 +53,7 @@ Executing the crossing requires a calm head and steady throttle control. You are
 
 The most common mistake is entering the water with too much speed. This is often done for the sake of a "cool" photo, but it is incredibly dangerous. Hitting the water fast creates a massive splash that can be sucked directly into the intake, even if the water is only a few inches deep. It also puts immense pressure on the radiator, headlights, and grille. You should always aim for a controlled bow wave, not a theatrical splash. If you see water coming over the hood, you are either going too fast or the water is too deep for your vehicle's current setup.
 
-Another frequent problem is failing to check the air box after a crossing. Even if the engine didn't stall, some water may have entered the air box. If the paper filter gets wet, it will swell and restrict airflow, potentially causing the engine to run poorly or even stall later on the trail. After any significant crossing, pull over and open the air box. If the filter is damp, replace it with a spare. This is why carrying basic spares is a core part of [vehicle maintenance on the trail](/2026-05-07-2026-05-07-vehicle-maintenance-on-the-trail-tools-and-spares).
+Another frequent problem is failing to check the air box after a crossing. Even if the engine didn't stall, some water may have entered the air box. If the paper filter gets wet, it will swell and restrict airflow, potentially causing the engine to run poorly or even stall later on the trail. After any significant crossing, pull over and open the air box. If the filter is damp, replace it with a spare. This is why carrying basic spares is a core part of [vehicle maintenance on the trail](/2026/05/07/2026-05-07-vehicle-maintenance-on-the-trail-tools-and-spares/).
 
 Ignoring the "aftercare" is a mistake that leads to long term mechanical failure. Many overlanders forget that their wheel bearings and brake components have just been submerged in silty, abrasive water. After a trip involving deep crossings, you must grease your tie rod ends, ball joints, and U-joints if they have grease fittings. You should also check your differential oil. If the oil looks milky or cloudy, you have water contamination and must change the fluid immediately. Neglecting this will lead to a very expensive differential rebuild within a few months.
 
@@ -77,8 +77,8 @@ Water crossings are a high stakes part of overlanding that require a blend of me
 Bookmark this guide for your next trip prep, and make sure your recovery gear is accessible before you hit the first creek.
 
 ### Related Reading
-- [2026 04 30 Trail Route Planning Apps Maps And Trip Research](/2026-04-30-2026-04-30-trail-route-planning-apps-maps-and-trip-research)
-- [2026 05 07 Vehicle Maintenance On The Trail Tools And Spares](/2026-05-07-2026-05-07-vehicle-maintenance-on-the-trail-tools-and-spares)
+- [2026 04 30 Trail Route Planning Apps Maps And Trip Research](/2026/04/30/2026-04-30-trail-route-planning-apps-maps-and-trip-research/)
+- [2026 05 07 Vehicle Maintenance On The Trail Tools And Spares](/2026/05/07/2026-05-07-vehicle-maintenance-on-the-trail-tools-and-spares/)
 
 <div class="author-bio">
   <p><strong>About the Author</strong></p>
