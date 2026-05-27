@@ -14,7 +14,7 @@ Sleeping on your vehicle instead of on the ground is one of the best upgrades a 
 ![A vehicle with a rooftop tent parked outdoors under a clear starry night sky](/assets/images/2026-03-25-best-budget-roof-tents-under-500.jpg)
 <p class="image-credit">Photo by <a href="https://unsplash.com/@leo_visions_?utm_source=artlines_blog&utm_medium=referral">Leo_Visions</a> on <a href="https://unsplash.com/?utm_source=artlines_blog&utm_medium=referral">Unsplash</a></p>
 
-> **Safety note:** Mounting any tent system to your vehicle's roof rack or truck bed changes the vehicle's center of gravity and can affect handling, especially on uneven terrain. Always follow weight limits for your specific rack or vehicle roof rating. If you are fabricating or welding any mounting hardware yourself, have the work inspected before driving off-road. See our [budget roof rack options guide](/2026-03-11-budget-roof-rack-options) for weight ratings and mounting hardware basics.
+> **Safety note:** Mounting any tent system to your vehicle's roof rack or truck bed changes the vehicle's center of gravity and can affect handling, especially on uneven terrain. Always follow weight limits for your specific rack or vehicle roof rating. If you are fabricating or welding any mounting hardware yourself, have the work inspected before driving off-road. See our [budget roof rack options guide](/2026/03/11/budget-roof-rack-options/) for weight ratings and mounting hardware basics.
 
 ## The Reality of Rooftop Tents Under $500
 
@@ -22,7 +22,7 @@ True hard-shell RTTs - the kind that pop up with gas struts and close into a fla
 
 The more honest answer for the $500-and-under budget is the truck bed tent. These are soft-shell tent systems that attach to the rails and tailgate of a pickup truck bed, turning the bed into a sleeping platform. They are not the same as an RTT - they sit at bed height rather than roof height - but they accomplish the same core goals: getting you off the ground, keeping you dry, and setting up in under 15 minutes.
 
-For a broader picture of how sleeping systems fit into a full overlanding setup, check out our [overlanding for beginners guide](/2026-03-11-overlanding-for-beginners).
+For a broader picture of how sleeping systems fit into a full overlanding setup, check out our [overlanding for beginners guide](/2026/03/11/overlanding-for-beginners/).
 
 ## What to Look for in a Budget Truck Bed Tent
 
@@ -84,7 +84,7 @@ A few things that make a difference in real-world use:
 
 A truck bed tent is an excellent entry point, but it does use your truck bed, which limits cargo carrying. If your overlanding style involves carrying a lot of gear - recovery equipment, a water system, a camp kitchen - the bed fills up fast and a tent on top of that cargo is impractical. In those cases, saving for a roof-rail-mounted RTT is the right long-term move.
 
-For a fuller picture of how sleeping platforms, storage systems, and gear carrying all interact in a budget build, see our [budget overlanding build under $2,000 guide](/2026-03-11-budget-overland-build-under-2000).
+For a fuller picture of how sleeping platforms, storage systems, and gear carrying all interact in a budget build, see our [budget overlanding build under $2,000 guide](/2026/03/11/budget-overland-build-under-2000/).
 
 ## Recommended Products
 
@@ -98,7 +98,7 @@ For a fuller picture of how sleeping platforms, storage systems, and gear carryi
 
 ---
 
-Bookmark this guide and check out our [overlanding for beginners guide](/2026-03-11-overlanding-for-beginners) next for a full rundown on how to build your kit from scratch without overspending.
+Bookmark this guide and check out our [overlanding for beginners guide](/2026/03/11/overlanding-for-beginners/) next for a full rundown on how to build your kit from scratch without overspending.
 
 <div class="author-bio">
   <p><strong>About the Author</strong></p>
