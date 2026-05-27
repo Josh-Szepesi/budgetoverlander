@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Best Budget CB Radio and Communication Gear for Overlanding"
-description: "The best budget CB radios for overlanding, what to look for before you buy, and how to choose an antenna — all under $100."
+title: "Best Budget CB Radios for Overlanding (2026 Guide)"
+description: "Best budget CB radios for overlanding in 2026: top picks under $100, what specs actually matter on the trail, and how to choose the right antenna."
 date: 2026-04-02
 image: /assets/images/2026-04-02-best-budget-cb-radio-communication-gear-overlanding.jpg
 ---
