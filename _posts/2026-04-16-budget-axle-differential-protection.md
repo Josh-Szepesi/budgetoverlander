@@ -75,7 +75,7 @@ We've tested both the Rugged Ridge and comparable flat plate options and prefer 
 
 If none of these fit your platform, the same logic applies to aftermarket equivalents: prioritize coverage of the front face on front diffs, and make sure the plate mounts to the axle housing itself rather than just to frame crossmembers, which can allow the plate to deflect and contact the housing under load.
 
-For more on how skid plate protection fits into a full build, see our guide to [DIY skid plate options for budget builds](/2026-03-12-diy-skid-plate-options-for-budget-builds).
+For more on how skid plate protection fits into a full build, see our guide to [DIY skid plate options for budget builds](/2026/03/12/diy-skid-plate-options-for-budget-builds/).
 
 ## How to Choose the Right Protection for Your Build
 
@@ -141,9 +141,9 @@ Axle and differential protection is one of the most straightforward budget prior
 
 The key is avoiding the trap of buying generic or universal parts that don't actually mount correctly. Fit matters more than thickness when it comes to skid plate effectiveness.
 
-For more on building a complete undercarriage protection package on a budget, check out our [guide to the overall budget overlanding build](/2026-03-11-budget-overland-build-under-2000).
+For more on building a complete undercarriage protection package on a budget, check out our [guide to the overall budget overlanding build](/2026/03/11/budget-overland-build-under-2000/).
 
-Also worth reading: [DIY Skid Plate Options for Budget Builds](/2026-03-12-diy-skid-plate-options-for-budget-builds)
+Also worth reading: [DIY Skid Plate Options for Budget Builds](/2026/03/12/diy-skid-plate-options-for-budget-builds/)
 
 ---
 
