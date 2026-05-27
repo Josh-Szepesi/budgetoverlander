@@ -104,7 +104,7 @@ None of the pre-built options include trauma-tier items. Plan to add a tournique
 
 **Storing the kit where it cannot be reached.** A first aid kit under 200 pounds of gear is not accessible. If your kit is buried in the bed box under recovery gear, it is effectively not there when you need it.
 
-If you are building out your solo setup, our [solo overlanding safety guide](/2026-03-11-solo-overlanding-safety) covers additional considerations for running trails alone, including communication and self-rescue planning.
+If you are building out your solo setup, our [solo overlanding safety guide](/2026/03/11/solo-overlanding-safety/) covers additional considerations for running trails alone, including communication and self-rescue planning.
 
 ## Frequently Asked Questions
 
@@ -132,7 +132,7 @@ Yes. A PLB or satellite communicator like a Garmin inReach is the communication 
 
 A proper overland first aid kit is not a luxury item or a sign that you are paranoid about trail risks. It is the honest acknowledgment that remote travel involves real exposure - and that the people who go with you are depending on you to be prepared. The good news is that a genuinely useful kit is achievable on a budget. Spend the most on the trauma items, organize for speed of access, learn to use what you carry, and inspect after every trip.
 
-Bookmark this guide and check out our [overland recovery gear guide](/2026-03-11-overland-recovery-gear) next - because the scenarios where you need a first aid kit often involve the same situations where recovery gear matters.
+Bookmark this guide and check out our [overland recovery gear guide](/2026/03/11/overland-recovery-gear/) next - because the scenarios where you need a first aid kit often involve the same situations where recovery gear matters.
 
 ---
 
