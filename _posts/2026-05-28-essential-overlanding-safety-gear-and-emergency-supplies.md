@@ -3,7 +3,7 @@ layout: post
 title: "Essential Overlanding Safety Gear and Emergency Supplies"
 description: "Build a reliable overlanding safety kit without overspending. This guide covers essential recovery gear, medical supplies, and emergency communication tools."
 date: 2026-05-28
-image: /assets/images/2026-05-28-essential-overlanding-safety-gear-and-emergency-supplies.jpg
+image: /assets/images/2026-05-28-essential-overlanding-safety-gear-and-emergency-supplies-hero.jpg
 ---
 
 *This post contains affiliate links. As an Amazon Associate, I earn from qualifying purchases at no extra cost to you.*
