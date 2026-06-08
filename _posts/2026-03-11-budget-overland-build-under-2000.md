@@ -121,9 +121,9 @@ Stock vehicle? You don't need modifications to start overlanding. See our [Overl
 
 Here are a few products to help with what we covered in this guide:
 
-- **[Recovery Kit Off Road](https://www.amazon.com/s?k=recovery+kit+off+road+tow+strap&tag=budgetoverlander-20)**
-- **[Budget Camping Gear Set](https://www.amazon.com/s?k=budget+camping+gear+set&tag=budgetoverlander-20)**
-- **[Portable Jump Starter Compact](https://www.amazon.com/s?k=portable+jump+starter+compact&tag=budgetoverlander-20)**
+- **[Offroading Gear 4x4 Kinetic Recovery Rope Kit](https://www.amazon.com/dp/B072N1GVR2?tag=budgetoverlander-20)**
+- **[Coleman 2-in-1 Grill/Stove Camping Bundle](https://www.amazon.com/dp/B0FDMQSVD2?tag=budgetoverlander-20)**
+- **[NOCO Boost GB40 1000A Portable Jump Starter](https://www.amazon.com/dp/B015TKUPIC?tag=budgetoverlander-20)**
 
 
 <div class="author-bio">
