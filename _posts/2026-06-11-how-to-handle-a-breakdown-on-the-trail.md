@@ -5,6 +5,8 @@ date: 2026-06-11T16:45:00Z
 categories: [overlanding, offroad, budget]
 image: /assets/images/2026-06-11-how-to-handle-a-breakdown-on-the-trail-hero-20260724.jpg
 ---
+
+![How to handle a breakdown on the trail](/assets/images/2026-06-11-how-to-handle-a-breakdown-on-the-trail-hero-20260724.jpg)
 *This post contains affiliate links. As an Amazon Associate, I earn from qualifying purchases at no extra cost to you.*
 
 ## Introduction: The Reality of Off-Road Travel
