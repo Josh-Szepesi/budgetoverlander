@@ -8,6 +8,9 @@ image: /assets/images/2026-06-28-diy-rock-sliders-materials-templates-welding-bu
 
 *This post contains affiliate links. As an Amazon Associate, I earn from qualifying purchases at no extra cost to you.*
 
+![DIY rock sliders fabricated for an overland vehicle](/assets/images/2026-06-28-diy-rock-sliders-materials-templates-welding-budget-hero.jpg)
+<p class="image-credit">Photo via <a href="https://unsplash.com/?utm_source=budgetoverlander&utm_medium=referral">Unsplash</a></p>
+
 Rock sliders are one of the best bang-for-buck upgrades you can bolt onto a budget overlanding rig. A premade set from a tier-one manufacturer will run $800–$1,500. Build them yourself, and you'll walk away with a set of sliders that'll take the same rocks, the same high-center hits, and the same trail punishment - for under $400 in materials and a weekend of welding. This isn't a shortcut; it's how most of the forum builders do it, and it's how you get durability-per-dollar that premade kits simply can't match at that price point.
 
 The honest truth: rock sliders aren't pretty. They're functional armor. They're meant to take impacts so your rocker panels, doors, and lower frame don't. And if you're building them yourself, you get to size them exactly to your rig and weld them to your exact specification - no gap, no compromise, no factory weak point.
