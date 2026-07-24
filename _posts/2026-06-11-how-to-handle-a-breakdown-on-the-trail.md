@@ -362,8 +362,6 @@ The trail will test you. When your vehicle fails in a remote location, the break
 
 ## About the Author
 
-<img src="/images/author-avatar.jpg" alt="Author Avatar" style="width: 100px; height: 100px; border-radius: 50%; float: left; margin-right: 15px; margin-bottom: 10px;">
-
 **Sarah Chen** is an experienced overlander and founder of Budget Overlander, a resource dedicated to helping adventurers explore the world on a realistic budget. With over 15 years of off-road experience and more than 50,000 miles of expedition driving across North America, Sarah specializes in DIY vehicle builds, trail navigation, and practical solutions for self-reliant travel. When she's not writing guides or leading overlanding trips, you'll find her on some remote trail testing the latest budget-friendly gear innovations.
 
 <div style="clear: both;"></div>
